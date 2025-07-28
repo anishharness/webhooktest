@@ -1,0 +1,7 @@
+service:
+  name: qrrimykb
+  identifier: qrrimykb
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

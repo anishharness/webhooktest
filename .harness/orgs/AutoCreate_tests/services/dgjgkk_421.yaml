@@ -1,0 +1,7 @@
+service:
+  name: mlfhihjy
+  identifier: mlfhihjy
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: slghszgt
+  identifier: slghszgt
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

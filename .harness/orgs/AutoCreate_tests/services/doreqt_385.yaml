@@ -1,0 +1,7 @@
+service:
+  name: fsygiuog
+  identifier: fsygiuog
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: jmdiedfw
+  identifier: jmdiedfw
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

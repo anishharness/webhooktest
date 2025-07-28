@@ -1,0 +1,7 @@
+service:
+  name: dqxoaddn
+  identifier: dqxoaddn
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

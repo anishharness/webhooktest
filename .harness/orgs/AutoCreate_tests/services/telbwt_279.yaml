@@ -1,0 +1,7 @@
+service:
+  name: aqasxegd
+  identifier: aqasxegd
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: nftsnqbs
+  identifier: nftsnqbs
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

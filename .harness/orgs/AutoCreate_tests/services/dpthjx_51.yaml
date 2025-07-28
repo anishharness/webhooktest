@@ -1,0 +1,7 @@
+service:
+  name: brhcvupc
+  identifier: brhcvupc
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

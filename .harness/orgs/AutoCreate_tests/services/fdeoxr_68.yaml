@@ -1,0 +1,7 @@
+service:
+  name: uoaxlcta
+  identifier: uoaxlcta
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

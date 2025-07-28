@@ -1,0 +1,7 @@
+service:
+  name: nlmnswch
+  identifier: nlmnswch
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

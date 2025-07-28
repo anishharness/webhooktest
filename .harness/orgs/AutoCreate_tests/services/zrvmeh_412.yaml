@@ -1,0 +1,7 @@
+service:
+  name: pginqnsw
+  identifier: pginqnsw
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

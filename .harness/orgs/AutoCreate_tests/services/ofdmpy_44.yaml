@@ -1,0 +1,7 @@
+service:
+  name: syjzsloe
+  identifier: syjzsloe
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

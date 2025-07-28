@@ -1,0 +1,7 @@
+service:
+  name: oymsmvhw
+  identifier: oymsmvhw
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

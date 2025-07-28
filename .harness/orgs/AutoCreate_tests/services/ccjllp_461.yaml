@@ -1,0 +1,7 @@
+service:
+  name: ukyykbxf
+  identifier: ukyykbxf
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

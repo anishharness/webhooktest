@@ -1,0 +1,7 @@
+service:
+  name: smudhuxa
+  identifier: smudhuxa
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

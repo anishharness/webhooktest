@@ -1,0 +1,7 @@
+service:
+  name: mwgcytdl
+  identifier: mwgcytdl
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

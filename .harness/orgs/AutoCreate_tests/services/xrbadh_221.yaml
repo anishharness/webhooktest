@@ -1,0 +1,7 @@
+service:
+  name: qpxashzn
+  identifier: qpxashzn
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

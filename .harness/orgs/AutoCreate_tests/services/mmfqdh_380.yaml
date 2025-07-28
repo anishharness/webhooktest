@@ -1,0 +1,7 @@
+service:
+  name: ovoboayx
+  identifier: ovoboayx
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

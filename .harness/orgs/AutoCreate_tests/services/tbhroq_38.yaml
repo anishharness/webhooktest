@@ -1,0 +1,7 @@
+service:
+  name: dflcmtsz
+  identifier: dflcmtsz
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: pdhjxhbx
+  identifier: pdhjxhbx
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

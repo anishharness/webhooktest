@@ -1,0 +1,7 @@
+service:
+  name: lojkbggo
+  identifier: lojkbggo
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

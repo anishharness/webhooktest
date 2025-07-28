@@ -1,0 +1,7 @@
+service:
+  name: ovwbjpeq
+  identifier: ovwbjpeq
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

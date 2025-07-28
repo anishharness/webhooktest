@@ -1,0 +1,7 @@
+service:
+  name: dibbvncp
+  identifier: dibbvncp
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

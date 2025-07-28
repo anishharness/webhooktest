@@ -1,0 +1,7 @@
+service:
+  name: yzzeukbw
+  identifier: yzzeukbw
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

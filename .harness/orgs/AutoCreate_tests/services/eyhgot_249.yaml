@@ -1,0 +1,7 @@
+service:
+  name: cmoxekfr
+  identifier: cmoxekfr
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

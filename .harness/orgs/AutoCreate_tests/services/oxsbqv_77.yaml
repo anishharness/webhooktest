@@ -1,0 +1,7 @@
+service:
+  name: qcdoooth
+  identifier: qcdoooth
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

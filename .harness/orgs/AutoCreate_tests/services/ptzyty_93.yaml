@@ -1,0 +1,7 @@
+service:
+  name: wunrvjek
+  identifier: wunrvjek
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

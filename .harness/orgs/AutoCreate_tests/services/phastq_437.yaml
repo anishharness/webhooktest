@@ -1,0 +1,7 @@
+service:
+  name: vhssbsfq
+  identifier: vhssbsfq
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

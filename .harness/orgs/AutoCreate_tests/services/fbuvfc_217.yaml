@@ -1,0 +1,7 @@
+service:
+  name: fxrycmgz
+  identifier: fxrycmgz
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

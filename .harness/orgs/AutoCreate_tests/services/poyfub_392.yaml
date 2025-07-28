@@ -1,0 +1,7 @@
+service:
+  name: nnorcxiy
+  identifier: nnorcxiy
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

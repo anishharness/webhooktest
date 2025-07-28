@@ -1,0 +1,7 @@
+service:
+  name: uxgeccak
+  identifier: uxgeccak
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

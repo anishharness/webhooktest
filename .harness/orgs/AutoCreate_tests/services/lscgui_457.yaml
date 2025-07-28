@@ -1,0 +1,7 @@
+service:
+  name: xsdslipj
+  identifier: xsdslipj
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

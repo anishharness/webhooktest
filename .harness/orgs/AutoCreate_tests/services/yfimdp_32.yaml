@@ -1,0 +1,7 @@
+service:
+  name: yimoqhkj
+  identifier: yimoqhkj
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

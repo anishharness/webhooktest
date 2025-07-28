@@ -1,0 +1,7 @@
+service:
+  name: emjugcvy
+  identifier: emjugcvy
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

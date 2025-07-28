@@ -1,0 +1,7 @@
+service:
+  name: ijwcsvqv
+  identifier: ijwcsvqv
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

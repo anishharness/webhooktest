@@ -1,0 +1,7 @@
+service:
+  name: utzljcmf
+  identifier: utzljcmf
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

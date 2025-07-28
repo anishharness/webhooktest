@@ -1,0 +1,7 @@
+service:
+  name: vkaxcuia
+  identifier: vkaxcuia
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

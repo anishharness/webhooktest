@@ -1,0 +1,7 @@
+service:
+  name: hpkuukvi
+  identifier: hpkuukvi
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

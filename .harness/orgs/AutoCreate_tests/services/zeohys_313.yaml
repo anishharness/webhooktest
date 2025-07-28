@@ -1,0 +1,7 @@
+service:
+  name: lwumyvek
+  identifier: lwumyvek
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: wqtkcxmg
+  identifier: wqtkcxmg
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

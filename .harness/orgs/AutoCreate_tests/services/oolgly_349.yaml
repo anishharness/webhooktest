@@ -1,0 +1,7 @@
+service:
+  name: vdbapbai
+  identifier: vdbapbai
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

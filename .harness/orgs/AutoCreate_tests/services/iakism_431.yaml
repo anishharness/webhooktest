@@ -1,0 +1,7 @@
+service:
+  name: hbllconb
+  identifier: hbllconb
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

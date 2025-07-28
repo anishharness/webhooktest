@@ -1,0 +1,7 @@
+service:
+  name: rqhiycnw
+  identifier: rqhiycnw
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

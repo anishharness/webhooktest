@@ -1,0 +1,7 @@
+service:
+  name: tcqgmrfq
+  identifier: tcqgmrfq
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

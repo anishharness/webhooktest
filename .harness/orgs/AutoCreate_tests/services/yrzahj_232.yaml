@@ -1,0 +1,7 @@
+service:
+  name: gqvfmpxb
+  identifier: gqvfmpxb
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

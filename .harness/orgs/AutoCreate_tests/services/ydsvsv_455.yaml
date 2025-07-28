@@ -1,0 +1,7 @@
+service:
+  name: adglfbjs
+  identifier: adglfbjs
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

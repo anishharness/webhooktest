@@ -1,0 +1,7 @@
+service:
+  name: itwhlkxy
+  identifier: itwhlkxy
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

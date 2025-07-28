@@ -1,0 +1,7 @@
+service:
+  name: dnwowstw
+  identifier: dnwowstw
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

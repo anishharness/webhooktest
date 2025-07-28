@@ -1,0 +1,7 @@
+service:
+  name: kxuenntj
+  identifier: kxuenntj
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

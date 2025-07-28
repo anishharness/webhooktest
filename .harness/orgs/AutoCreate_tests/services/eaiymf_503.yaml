@@ -1,0 +1,7 @@
+service:
+  name: fzacnzec
+  identifier: fzacnzec
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: sjhaonmu
+  identifier: sjhaonmu
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

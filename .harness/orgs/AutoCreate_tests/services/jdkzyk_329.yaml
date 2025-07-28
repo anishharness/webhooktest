@@ -1,0 +1,7 @@
+service:
+  name: awodoskz
+  identifier: awodoskz
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: fknqwujo
+  identifier: fknqwujo
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

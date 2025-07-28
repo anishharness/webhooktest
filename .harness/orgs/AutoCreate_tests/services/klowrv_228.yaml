@@ -1,0 +1,7 @@
+service:
+  name: aemrcemg
+  identifier: aemrcemg
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

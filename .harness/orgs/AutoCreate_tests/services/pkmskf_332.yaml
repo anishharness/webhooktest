@@ -1,0 +1,7 @@
+service:
+  name: fgmsxrwp
+  identifier: fgmsxrwp
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

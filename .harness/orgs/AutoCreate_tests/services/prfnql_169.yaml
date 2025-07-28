@@ -1,0 +1,7 @@
+service:
+  name: pbuedcgk
+  identifier: pbuedcgk
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

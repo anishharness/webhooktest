@@ -1,0 +1,7 @@
+service:
+  name: ueluhtpr
+  identifier: ueluhtpr
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

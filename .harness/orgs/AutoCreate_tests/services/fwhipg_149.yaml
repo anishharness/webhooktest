@@ -1,0 +1,7 @@
+service:
+  name: angupmrd
+  identifier: angupmrd
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

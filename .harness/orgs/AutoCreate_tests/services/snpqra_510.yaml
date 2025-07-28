@@ -1,0 +1,7 @@
+service:
+  name: splivair
+  identifier: splivair
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

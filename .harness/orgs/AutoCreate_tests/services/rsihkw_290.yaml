@@ -1,0 +1,7 @@
+service:
+  name: pgtctxqk
+  identifier: pgtctxqk
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

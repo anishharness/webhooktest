@@ -1,0 +1,7 @@
+service:
+  name: orstdyyc
+  identifier: orstdyyc
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

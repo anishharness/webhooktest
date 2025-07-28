@@ -1,0 +1,7 @@
+service:
+  name: xudwlqju
+  identifier: xudwlqju
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

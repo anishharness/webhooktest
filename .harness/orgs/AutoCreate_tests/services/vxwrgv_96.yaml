@@ -1,0 +1,7 @@
+service:
+  name: drweoizt
+  identifier: drweoizt
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

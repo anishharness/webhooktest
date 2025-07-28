@@ -1,0 +1,7 @@
+service:
+  name: vfjkirpd
+  identifier: vfjkirpd
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

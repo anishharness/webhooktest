@@ -1,0 +1,7 @@
+service:
+  name: svstnrzj
+  identifier: svstnrzj
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

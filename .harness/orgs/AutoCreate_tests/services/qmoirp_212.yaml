@@ -1,0 +1,7 @@
+service:
+  name: aawllxlv
+  identifier: aawllxlv
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

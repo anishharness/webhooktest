@@ -1,0 +1,7 @@
+service:
+  name: rikmtofn
+  identifier: rikmtofn
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

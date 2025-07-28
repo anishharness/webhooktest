@@ -1,0 +1,7 @@
+service:
+  name: nhzpolkg
+  identifier: nhzpolkg
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

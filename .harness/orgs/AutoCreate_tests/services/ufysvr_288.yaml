@@ -1,0 +1,7 @@
+service:
+  name: iwakwohg
+  identifier: iwakwohg
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

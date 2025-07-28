@@ -1,0 +1,7 @@
+service:
+  name: dhdgrvsp
+  identifier: dhdgrvsp
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

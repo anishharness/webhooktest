@@ -1,0 +1,7 @@
+service:
+  name: woyhslpr
+  identifier: woyhslpr
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

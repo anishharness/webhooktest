@@ -1,0 +1,7 @@
+service:
+  name: qmsddsln
+  identifier: qmsddsln
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

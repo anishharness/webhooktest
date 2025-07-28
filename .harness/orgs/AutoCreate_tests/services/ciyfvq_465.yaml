@@ -1,0 +1,7 @@
+service:
+  name: pedwlmho
+  identifier: pedwlmho
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: qusolppo
+  identifier: qusolppo
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

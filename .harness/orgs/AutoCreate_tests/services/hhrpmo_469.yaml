@@ -1,0 +1,7 @@
+service:
+  name: odurqpjj
+  identifier: odurqpjj
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: qsvgrsae
+  identifier: qsvgrsae
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

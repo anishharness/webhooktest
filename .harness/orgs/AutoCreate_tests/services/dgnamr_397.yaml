@@ -1,0 +1,7 @@
+service:
+  name: xpjhvnvz
+  identifier: xpjhvnvz
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

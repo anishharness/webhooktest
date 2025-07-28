@@ -1,0 +1,7 @@
+service:
+  name: blndevbd
+  identifier: blndevbd
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

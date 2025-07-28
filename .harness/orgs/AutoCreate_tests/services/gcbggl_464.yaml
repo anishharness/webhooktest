@@ -1,0 +1,7 @@
+service:
+  name: uzoltarb
+  identifier: uzoltarb
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

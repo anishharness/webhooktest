@@ -1,0 +1,7 @@
+service:
+  name: dxqroecs
+  identifier: dxqroecs
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: uvcoxzha
+  identifier: uvcoxzha
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

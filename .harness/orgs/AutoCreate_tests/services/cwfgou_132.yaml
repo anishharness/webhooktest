@@ -1,0 +1,7 @@
+service:
+  name: jepexujp
+  identifier: jepexujp
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

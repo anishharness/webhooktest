@@ -1,0 +1,7 @@
+service:
+  name: yefbxyfh
+  identifier: yefbxyfh
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: ihspgcck
+  identifier: ihspgcck
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

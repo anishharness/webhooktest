@@ -1,0 +1,7 @@
+service:
+  name: lxpvtoig
+  identifier: lxpvtoig
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: fhcgjdku
+  identifier: fhcgjdku
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

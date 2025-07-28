@@ -1,0 +1,7 @@
+service:
+  name: dzmfiypv
+  identifier: dzmfiypv
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

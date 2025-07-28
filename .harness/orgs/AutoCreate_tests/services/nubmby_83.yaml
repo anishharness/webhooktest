@@ -1,0 +1,7 @@
+service:
+  name: tktikfmi
+  identifier: tktikfmi
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

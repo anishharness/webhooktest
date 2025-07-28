@@ -1,0 +1,7 @@
+service:
+  name: bfttfoht
+  identifier: bfttfoht
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

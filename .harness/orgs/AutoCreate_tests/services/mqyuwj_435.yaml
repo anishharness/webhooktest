@@ -1,0 +1,7 @@
+service:
+  name: soahwyxx
+  identifier: soahwyxx
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

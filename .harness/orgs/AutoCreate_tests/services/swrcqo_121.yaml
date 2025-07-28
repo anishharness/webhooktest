@@ -1,0 +1,7 @@
+service:
+  name: nhkdkajd
+  identifier: nhkdkajd
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

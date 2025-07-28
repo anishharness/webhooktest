@@ -1,0 +1,7 @@
+service:
+  name: kpbferrg
+  identifier: kpbferrg
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

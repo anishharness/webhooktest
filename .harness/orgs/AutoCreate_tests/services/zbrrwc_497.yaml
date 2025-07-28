@@ -1,0 +1,7 @@
+service:
+  name: pfhzqkur
+  identifier: pfhzqkur
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

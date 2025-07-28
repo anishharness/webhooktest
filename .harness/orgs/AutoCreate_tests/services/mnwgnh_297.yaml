@@ -1,0 +1,7 @@
+service:
+  name: htjpaqog
+  identifier: htjpaqog
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

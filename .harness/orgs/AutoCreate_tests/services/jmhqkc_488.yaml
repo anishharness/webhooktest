@@ -1,0 +1,7 @@
+service:
+  name: hfawzrcw
+  identifier: hfawzrcw
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

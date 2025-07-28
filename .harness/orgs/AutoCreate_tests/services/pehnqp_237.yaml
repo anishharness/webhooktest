@@ -1,0 +1,7 @@
+service:
+  name: jvpdabyu
+  identifier: jvpdabyu
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

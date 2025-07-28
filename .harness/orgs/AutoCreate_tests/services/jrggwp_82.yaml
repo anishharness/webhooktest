@@ -1,0 +1,7 @@
+service:
+  name: teokdmge
+  identifier: teokdmge
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

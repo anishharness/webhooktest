@@ -1,0 +1,7 @@
+service:
+  name: wstlmibd
+  identifier: wstlmibd
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

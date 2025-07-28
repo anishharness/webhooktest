@@ -1,0 +1,7 @@
+service:
+  name: korerxgd
+  identifier: korerxgd
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

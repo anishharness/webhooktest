@@ -1,0 +1,7 @@
+service:
+  name: ljwpdrje
+  identifier: ljwpdrje
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

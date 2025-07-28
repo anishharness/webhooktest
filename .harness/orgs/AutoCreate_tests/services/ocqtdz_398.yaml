@@ -1,0 +1,7 @@
+service:
+  name: mzumrdtg
+  identifier: mzumrdtg
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

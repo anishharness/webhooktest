@@ -1,0 +1,7 @@
+service:
+  name: gegkjwtk
+  identifier: gegkjwtk
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

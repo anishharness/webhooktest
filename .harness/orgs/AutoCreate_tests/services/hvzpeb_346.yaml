@@ -1,0 +1,7 @@
+service:
+  name: kdjtptfa
+  identifier: kdjtptfa
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: guvvsylx
+  identifier: guvvsylx
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

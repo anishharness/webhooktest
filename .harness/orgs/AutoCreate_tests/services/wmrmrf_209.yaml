@@ -1,0 +1,7 @@
+service:
+  name: drcmgosx
+  identifier: drcmgosx
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

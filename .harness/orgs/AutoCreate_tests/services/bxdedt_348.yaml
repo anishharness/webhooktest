@@ -1,0 +1,7 @@
+service:
+  name: octginjk
+  identifier: octginjk
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

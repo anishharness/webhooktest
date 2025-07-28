@@ -1,0 +1,7 @@
+service:
+  name: ytrtrodn
+  identifier: ytrtrodn
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

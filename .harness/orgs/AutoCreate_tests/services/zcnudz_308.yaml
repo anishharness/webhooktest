@@ -1,0 +1,7 @@
+service:
+  name: ahpshxaq
+  identifier: ahpshxaq
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: pzjawujv
+  identifier: pzjawujv
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

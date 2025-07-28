@@ -1,0 +1,7 @@
+service:
+  name: ousxgdkg
+  identifier: ousxgdkg
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

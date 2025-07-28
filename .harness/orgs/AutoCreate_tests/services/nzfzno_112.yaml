@@ -1,0 +1,7 @@
+service:
+  name: orvlapth
+  identifier: orvlapth
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

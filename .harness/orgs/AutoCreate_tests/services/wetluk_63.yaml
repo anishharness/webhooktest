@@ -1,0 +1,7 @@
+service:
+  name: fnluxzbp
+  identifier: fnluxzbp
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

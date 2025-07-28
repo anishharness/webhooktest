@@ -1,0 +1,7 @@
+service:
+  name: pzxvrscb
+  identifier: pzxvrscb
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: dddgwaqp
+  identifier: dddgwaqp
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: kmjdcfko
+  identifier: kmjdcfko
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

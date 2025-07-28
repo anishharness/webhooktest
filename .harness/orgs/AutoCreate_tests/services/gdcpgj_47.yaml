@@ -1,0 +1,7 @@
+service:
+  name: pwoqszac
+  identifier: pwoqszac
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

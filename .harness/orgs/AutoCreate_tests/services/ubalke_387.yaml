@@ -1,0 +1,7 @@
+service:
+  name: agayzhyp
+  identifier: agayzhyp
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

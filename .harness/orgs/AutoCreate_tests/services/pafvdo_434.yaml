@@ -1,0 +1,7 @@
+service:
+  name: sanfevtc
+  identifier: sanfevtc
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: zxidsxvy
+  identifier: zxidsxvy
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

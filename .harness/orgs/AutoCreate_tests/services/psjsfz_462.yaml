@@ -1,0 +1,7 @@
+service:
+  name: xtxiusrw
+  identifier: xtxiusrw
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

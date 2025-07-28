@@ -1,0 +1,7 @@
+service:
+  name: bfdiskcq
+  identifier: bfdiskcq
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

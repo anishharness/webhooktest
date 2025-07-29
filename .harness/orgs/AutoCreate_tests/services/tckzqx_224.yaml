@@ -1,7 +1,0 @@
-service:
-  name: vezmrlpu
-  identifier: vezmrlpu
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

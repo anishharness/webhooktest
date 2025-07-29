@@ -1,7 +1,0 @@
-service:
-  name: svebuxuv
-  identifier: svebuxuv
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

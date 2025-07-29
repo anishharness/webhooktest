@@ -1,7 +1,0 @@
-service:
-  name: ruzffrzb
-  identifier: ruzffrzb
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

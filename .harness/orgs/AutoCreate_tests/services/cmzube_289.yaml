@@ -1,7 +1,0 @@
-service:
-  name: vlwngpux
-  identifier: vlwngpux
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

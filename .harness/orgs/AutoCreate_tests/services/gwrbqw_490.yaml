@@ -1,7 +1,0 @@
-service:
-  name: xywszvcj
-  identifier: xywszvcj
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

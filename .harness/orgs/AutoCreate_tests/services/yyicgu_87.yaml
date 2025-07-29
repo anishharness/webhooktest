@@ -1,7 +1,0 @@
-service:
-  name: dywecirc
-  identifier: dywecirc
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

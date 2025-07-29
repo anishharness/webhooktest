@@ -1,7 +1,0 @@
-service:
-  name: ovdxvrpc
-  identifier: ovdxvrpc
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

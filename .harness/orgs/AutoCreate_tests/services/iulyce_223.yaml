@@ -1,7 +1,0 @@
-service:
-  name: novclvgw
-  identifier: novclvgw
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: svuvjwdv
-  identifier: svuvjwdv
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

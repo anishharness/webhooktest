@@ -1,7 +1,0 @@
-service:
-  name: hpegwiyd
-  identifier: hpegwiyd
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

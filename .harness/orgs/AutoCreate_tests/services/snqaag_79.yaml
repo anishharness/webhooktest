@@ -1,7 +1,0 @@
-service:
-  name: iryllxtg
-  identifier: iryllxtg
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

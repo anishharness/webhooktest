@@ -1,7 +1,0 @@
-service:
-  name: jmwmcgzq
-  identifier: jmwmcgzq
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

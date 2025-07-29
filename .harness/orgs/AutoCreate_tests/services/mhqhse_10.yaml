@@ -1,7 +1,0 @@
-service:
-  name: waetluin
-  identifier: waetluin
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

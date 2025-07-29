@@ -1,7 +1,0 @@
-service:
-  name: ipdesbaa
-  identifier: ipdesbaa
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

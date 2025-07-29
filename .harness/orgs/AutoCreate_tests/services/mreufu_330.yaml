@@ -1,7 +1,0 @@
-service:
-  name: zgyzjhef
-  identifier: zgyzjhef
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

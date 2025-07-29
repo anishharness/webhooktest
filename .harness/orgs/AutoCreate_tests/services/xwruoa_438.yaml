@@ -1,7 +1,0 @@
-service:
-  name: awttctty
-  identifier: awttctty
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

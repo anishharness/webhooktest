@@ -1,7 +1,0 @@
-service:
-  name: bpilclze
-  identifier: bpilclze
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: kavllrwi
-  identifier: kavllrwi
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

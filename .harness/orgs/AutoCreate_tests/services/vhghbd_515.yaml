@@ -1,7 +1,0 @@
-service:
-  name: yqpojgzi
-  identifier: yqpojgzi
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

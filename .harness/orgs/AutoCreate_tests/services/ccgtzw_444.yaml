@@ -1,7 +1,0 @@
-service:
-  name: ivxqeicd
-  identifier: ivxqeicd
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

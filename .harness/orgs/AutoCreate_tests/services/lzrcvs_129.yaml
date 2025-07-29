@@ -1,7 +1,0 @@
-service:
-  name: tnwidtke
-  identifier: tnwidtke
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

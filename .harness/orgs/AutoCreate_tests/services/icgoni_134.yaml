@@ -1,7 +1,0 @@
-service:
-  name: xzsnhnqc
-  identifier: xzsnhnqc
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

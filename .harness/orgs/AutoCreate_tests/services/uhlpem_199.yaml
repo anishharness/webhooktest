@@ -1,7 +1,0 @@
-service:
-  name: rimgkbzt
-  identifier: rimgkbzt
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

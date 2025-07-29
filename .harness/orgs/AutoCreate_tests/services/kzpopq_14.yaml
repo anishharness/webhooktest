@@ -1,7 +1,0 @@
-service:
-  name: olcxunyx
-  identifier: olcxunyx
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

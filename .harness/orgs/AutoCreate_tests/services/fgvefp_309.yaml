@@ -1,7 +1,0 @@
-service:
-  name: uhiqqjhw
-  identifier: uhiqqjhw
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

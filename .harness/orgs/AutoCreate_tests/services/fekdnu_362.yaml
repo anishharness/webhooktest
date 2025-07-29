@@ -1,7 +1,0 @@
-service:
-  name: oxezbjjz
-  identifier: oxezbjjz
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

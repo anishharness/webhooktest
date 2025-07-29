@@ -1,7 +1,0 @@
-service:
-  name: zcszjnbj
-  identifier: zcszjnbj
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

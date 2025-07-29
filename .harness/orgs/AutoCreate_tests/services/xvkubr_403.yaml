@@ -1,7 +1,0 @@
-service:
-  name: nmqnwzjn
-  identifier: nmqnwzjn
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

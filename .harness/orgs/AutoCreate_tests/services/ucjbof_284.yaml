@@ -1,7 +1,0 @@
-service:
-  name: rpepcweb
-  identifier: rpepcweb
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

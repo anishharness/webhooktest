@@ -1,7 +1,0 @@
-service:
-  name: mmfwfwrh
-  identifier: mmfwfwrh
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

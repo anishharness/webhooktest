@@ -1,7 +1,0 @@
-service:
-  name: qzzrjhlo
-  identifier: qzzrjhlo
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

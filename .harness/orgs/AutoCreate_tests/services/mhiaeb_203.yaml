@@ -1,7 +1,0 @@
-service:
-  name: cenuzgkk
-  identifier: cenuzgkk
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

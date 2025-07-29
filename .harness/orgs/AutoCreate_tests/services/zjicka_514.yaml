@@ -1,7 +1,0 @@
-service:
-  name: rjgrrxdj
-  identifier: rjgrrxdj
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

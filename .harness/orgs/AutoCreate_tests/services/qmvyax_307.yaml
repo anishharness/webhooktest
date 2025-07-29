@@ -1,7 +1,0 @@
-service:
-  name: zdlpswyc
-  identifier: zdlpswyc
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: jvclhuyh
-  identifier: jvclhuyh
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

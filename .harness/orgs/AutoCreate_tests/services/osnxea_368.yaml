@@ -1,7 +1,0 @@
-service:
-  name: axmggmaa
-  identifier: axmggmaa
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

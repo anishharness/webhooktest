@@ -1,7 +1,0 @@
-service:
-  name: hxlugzbp
-  identifier: hxlugzbp
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

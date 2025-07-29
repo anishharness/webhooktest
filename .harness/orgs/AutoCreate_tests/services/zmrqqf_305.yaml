@@ -1,7 +1,0 @@
-service:
-  name: raepfbnn
-  identifier: raepfbnn
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

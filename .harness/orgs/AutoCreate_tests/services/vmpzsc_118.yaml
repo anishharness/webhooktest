@@ -1,7 +1,0 @@
-service:
-  name: chvsogre
-  identifier: chvsogre
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

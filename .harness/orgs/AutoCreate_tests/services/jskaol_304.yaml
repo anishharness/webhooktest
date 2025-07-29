@@ -1,7 +1,0 @@
-service:
-  name: oyonhvhp
-  identifier: oyonhvhp
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: avhhpccm
-  identifier: avhhpccm
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

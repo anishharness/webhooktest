@@ -1,7 +1,0 @@
-service:
-  name: wjdmgkuy
-  identifier: wjdmgkuy
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

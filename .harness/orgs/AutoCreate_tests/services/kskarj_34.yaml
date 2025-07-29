@@ -1,7 +1,0 @@
-service:
-  name: agfjjzrn
-  identifier: agfjjzrn
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

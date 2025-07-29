@@ -1,7 +1,0 @@
-service:
-  name: tkplnrwm
-  identifier: tkplnrwm
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

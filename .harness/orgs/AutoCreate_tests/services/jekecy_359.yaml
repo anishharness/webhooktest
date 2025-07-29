@@ -1,7 +1,0 @@
-service:
-  name: jrivovat
-  identifier: jrivovat
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: gfcgxijp
-  identifier: gfcgxijp
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: hrxcvbjj
-  identifier: hrxcvbjj
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

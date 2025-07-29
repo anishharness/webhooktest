@@ -1,7 +1,0 @@
-service:
-  name: waydayub
-  identifier: waydayub
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

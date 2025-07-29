@@ -1,7 +1,0 @@
-service:
-  name: mobubkca
-  identifier: mobubkca
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

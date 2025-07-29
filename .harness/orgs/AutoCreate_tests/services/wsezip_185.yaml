@@ -1,7 +1,0 @@
-service:
-  name: xapbfzfi
-  identifier: xapbfzfi
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

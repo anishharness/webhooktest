@@ -1,7 +1,0 @@
-service:
-  name: haxoatos
-  identifier: haxoatos
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

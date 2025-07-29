@@ -1,7 +1,0 @@
-service:
-  name: hzojqwdv
-  identifier: hzojqwdv
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

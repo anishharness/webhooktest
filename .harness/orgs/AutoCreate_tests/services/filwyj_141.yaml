@@ -1,7 +1,0 @@
-service:
-  name: tbcbmcwy
-  identifier: tbcbmcwy
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

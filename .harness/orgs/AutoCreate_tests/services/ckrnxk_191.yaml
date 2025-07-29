@@ -1,7 +1,0 @@
-service:
-  name: jjpzfvxy
-  identifier: jjpzfvxy
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

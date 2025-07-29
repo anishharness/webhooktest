@@ -1,7 +1,0 @@
-service:
-  name: zksiovbb
-  identifier: zksiovbb
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

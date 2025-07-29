@@ -1,7 +1,0 @@
-service:
-  name: knulcmzn
-  identifier: knulcmzn
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

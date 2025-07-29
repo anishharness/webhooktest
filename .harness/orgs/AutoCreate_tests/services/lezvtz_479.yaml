@@ -1,7 +1,0 @@
-service:
-  name: sivajtci
-  identifier: sivajtci
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: qrkzodux
-  identifier: qrkzodux
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

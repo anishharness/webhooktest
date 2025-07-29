@@ -1,7 +1,0 @@
-service:
-  name: cftzflxv
-  identifier: cftzflxv
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

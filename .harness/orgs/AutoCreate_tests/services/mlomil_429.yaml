@@ -1,7 +1,0 @@
-service:
-  name: cksmazms
-  identifier: cksmazms
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

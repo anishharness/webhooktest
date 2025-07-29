@@ -1,7 +1,0 @@
-service:
-  name: ofufqfwa
-  identifier: ofufqfwa
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: bvvsqlrx
-  identifier: bvvsqlrx
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

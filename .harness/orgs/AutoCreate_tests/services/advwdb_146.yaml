@@ -1,7 +1,0 @@
-service:
-  name: vbkiunch
-  identifier: vbkiunch
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

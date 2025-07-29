@@ -1,7 +1,0 @@
-service:
-  name: pqgdbgug
-  identifier: pqgdbgug
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

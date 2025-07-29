@@ -1,7 +1,0 @@
-service:
-  name: dutnfalx
-  identifier: dutnfalx
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: iuosxuuu
-  identifier: iuosxuuu
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

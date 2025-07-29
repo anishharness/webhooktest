@@ -1,7 +1,0 @@
-service:
-  name: tbrxucin
-  identifier: tbrxucin
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: ascmckxm
-  identifier: ascmckxm
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

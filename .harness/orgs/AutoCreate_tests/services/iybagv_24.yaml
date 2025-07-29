@@ -1,7 +1,0 @@
-service:
-  name: jmafxhvf
-  identifier: jmafxhvf
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

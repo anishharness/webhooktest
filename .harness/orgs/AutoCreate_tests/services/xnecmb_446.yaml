@@ -1,7 +1,0 @@
-service:
-  name: hnlsniws
-  identifier: hnlsniws
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

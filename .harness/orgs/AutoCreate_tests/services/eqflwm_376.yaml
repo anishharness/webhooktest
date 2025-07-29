@@ -1,7 +1,0 @@
-service:
-  name: rgoavkgt
-  identifier: rgoavkgt
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

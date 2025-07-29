@@ -1,7 +1,0 @@
-service:
-  name: rddyzpbm
-  identifier: rddyzpbm
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

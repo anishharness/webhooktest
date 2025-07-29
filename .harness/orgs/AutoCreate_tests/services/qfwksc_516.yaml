@@ -1,7 +1,0 @@
-service:
-  name: vgblhfgu
-  identifier: vgblhfgu
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

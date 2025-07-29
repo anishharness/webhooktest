@@ -1,7 +1,0 @@
-service:
-  name: ggelvueb
-  identifier: ggelvueb
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

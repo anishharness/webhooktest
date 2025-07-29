@@ -1,7 +1,0 @@
-service:
-  name: knqpsjfm
-  identifier: knqpsjfm
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

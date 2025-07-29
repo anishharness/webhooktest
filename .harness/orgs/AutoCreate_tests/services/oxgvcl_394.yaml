@@ -1,7 +1,0 @@
-service:
-  name: vwlbweuj
-  identifier: vwlbweuj
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

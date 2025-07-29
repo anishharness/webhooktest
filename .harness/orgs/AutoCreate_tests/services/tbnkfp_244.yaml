@@ -1,7 +1,0 @@
-service:
-  name: taldrzyv
-  identifier: taldrzyv
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

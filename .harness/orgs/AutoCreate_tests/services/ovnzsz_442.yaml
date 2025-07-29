@@ -1,7 +1,0 @@
-service:
-  name: utveezkk
-  identifier: utveezkk
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: vdlcxydc
-  identifier: vdlcxydc
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

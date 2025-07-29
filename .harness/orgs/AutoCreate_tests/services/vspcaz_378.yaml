@@ -1,7 +1,0 @@
-service:
-  name: ekwlgmbi
-  identifier: ekwlgmbi
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

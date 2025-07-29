@@ -1,7 +1,0 @@
-service:
-  name: xfccrqcu
-  identifier: xfccrqcu
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

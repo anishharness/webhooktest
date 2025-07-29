@@ -1,7 +1,0 @@
-service:
-  name: xnwgrqgr
-  identifier: xnwgrqgr
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: vrxsztci
-  identifier: vrxsztci
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

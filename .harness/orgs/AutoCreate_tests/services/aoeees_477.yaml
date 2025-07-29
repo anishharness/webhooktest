@@ -1,7 +1,0 @@
-service:
-  name: hbvbpyoi
-  identifier: hbvbpyoi
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

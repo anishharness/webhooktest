@@ -1,7 +1,0 @@
-service:
-  name: xxabkbhv
-  identifier: xxabkbhv
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

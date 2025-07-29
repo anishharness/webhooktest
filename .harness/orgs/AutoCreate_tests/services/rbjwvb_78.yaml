@@ -1,7 +1,0 @@
-service:
-  name: egaoomnv
-  identifier: egaoomnv
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

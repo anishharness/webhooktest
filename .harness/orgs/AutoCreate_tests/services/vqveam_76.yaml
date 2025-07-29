@@ -1,7 +1,0 @@
-service:
-  name: khbepyin
-  identifier: khbepyin
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: hmaabvyx
-  identifier: hmaabvyx
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

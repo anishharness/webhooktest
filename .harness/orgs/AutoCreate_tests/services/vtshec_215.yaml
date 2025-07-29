@@ -1,7 +1,0 @@
-service:
-  name: vsshskkl
-  identifier: vsshskkl
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

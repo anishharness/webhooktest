@@ -1,7 +1,0 @@
-service:
-  name: bslsbjbl
-  identifier: bslsbjbl
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

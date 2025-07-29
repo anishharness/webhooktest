@@ -1,7 +1,0 @@
-service:
-  name: tdslqwcr
-  identifier: tdslqwcr
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

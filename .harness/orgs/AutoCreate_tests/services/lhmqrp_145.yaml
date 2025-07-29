@@ -1,7 +1,0 @@
-service:
-  name: znjbwurg
-  identifier: znjbwurg
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: upmgxszd
-  identifier: upmgxszd
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: sztuvtpt
-  identifier: sztuvtpt
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

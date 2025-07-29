@@ -1,7 +1,0 @@
-service:
-  name: obyubyas
-  identifier: obyubyas
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

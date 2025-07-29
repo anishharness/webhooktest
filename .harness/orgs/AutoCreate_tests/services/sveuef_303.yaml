@@ -1,7 +1,0 @@
-service:
-  name: tngdflij
-  identifier: tngdflij
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: ghpfiolr
-  identifier: ghpfiolr
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

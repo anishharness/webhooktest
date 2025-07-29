@@ -1,7 +1,0 @@
-service:
-  name: qaqcftsf
-  identifier: qaqcftsf
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

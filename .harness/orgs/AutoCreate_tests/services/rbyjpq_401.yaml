@@ -1,7 +1,0 @@
-service:
-  name: toyazeow
-  identifier: toyazeow
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

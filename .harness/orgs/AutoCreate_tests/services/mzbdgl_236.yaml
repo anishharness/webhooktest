@@ -1,7 +1,0 @@
-service:
-  name: cvefsraq
-  identifier: cvefsraq
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

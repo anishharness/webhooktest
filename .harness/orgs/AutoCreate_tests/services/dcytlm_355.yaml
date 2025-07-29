@@ -1,7 +1,0 @@
-service:
-  name: dfklehdl
-  identifier: dfklehdl
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

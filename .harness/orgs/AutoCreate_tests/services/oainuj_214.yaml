@@ -1,7 +1,0 @@
-service:
-  name: emvidjmh
-  identifier: emvidjmh
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

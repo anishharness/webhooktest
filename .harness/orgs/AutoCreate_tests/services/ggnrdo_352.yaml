@@ -1,7 +1,0 @@
-service:
-  name: ayvavqvu
-  identifier: ayvavqvu
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

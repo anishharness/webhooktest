@@ -1,7 +1,0 @@
-service:
-  name: jehwutht
-  identifier: jehwutht
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

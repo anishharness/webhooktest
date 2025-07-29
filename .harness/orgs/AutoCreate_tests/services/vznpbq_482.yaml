@@ -1,7 +1,0 @@
-service:
-  name: qsakzdra
-  identifier: qsakzdra
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

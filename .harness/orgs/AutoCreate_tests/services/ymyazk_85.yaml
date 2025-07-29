@@ -1,7 +1,0 @@
-service:
-  name: zruvevks
-  identifier: zruvevks
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

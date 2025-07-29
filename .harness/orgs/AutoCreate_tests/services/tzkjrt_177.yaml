@@ -1,7 +1,0 @@
-service:
-  name: xvxfbwxq
-  identifier: xvxfbwxq
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

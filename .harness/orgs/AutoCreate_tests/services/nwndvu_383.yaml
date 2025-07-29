@@ -1,7 +1,0 @@
-service:
-  name: rgehream
-  identifier: rgehream
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: irrtjrow
-  identifier: irrtjrow
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

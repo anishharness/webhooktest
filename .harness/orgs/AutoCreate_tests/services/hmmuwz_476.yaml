@@ -1,7 +1,0 @@
-service:
-  name: fzhnbbuv
-  identifier: fzhnbbuv
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

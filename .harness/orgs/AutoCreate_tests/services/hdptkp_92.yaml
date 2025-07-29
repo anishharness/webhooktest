@@ -1,7 +1,0 @@
-service:
-  name: garvepyf
-  identifier: garvepyf
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

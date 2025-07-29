@@ -1,7 +1,0 @@
-service:
-  name: ddwmqtkl
-  identifier: ddwmqtkl
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

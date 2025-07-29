@@ -1,7 +1,0 @@
-service:
-  name: zsifyalu
-  identifier: zsifyalu
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

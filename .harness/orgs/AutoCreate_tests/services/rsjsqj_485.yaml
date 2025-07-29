@@ -1,7 +1,0 @@
-service:
-  name: lhkcdxqn
-  identifier: lhkcdxqn
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

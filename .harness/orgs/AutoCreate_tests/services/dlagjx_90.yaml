@@ -1,7 +1,0 @@
-service:
-  name: lobqwiuq
-  identifier: lobqwiuq
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

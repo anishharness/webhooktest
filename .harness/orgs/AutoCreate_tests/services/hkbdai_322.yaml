@@ -1,7 +1,0 @@
-service:
-  name: rslplydh
-  identifier: rslplydh
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

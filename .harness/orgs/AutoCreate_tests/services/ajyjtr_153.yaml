@@ -1,7 +1,0 @@
-service:
-  name: ckkpzyqf
-  identifier: ckkpzyqf
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: hdkmtwfo
-  identifier: hdkmtwfo
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

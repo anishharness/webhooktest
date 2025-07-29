@@ -1,7 +1,0 @@
-service:
-  name: yjtzuawa
-  identifier: yjtzuawa
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

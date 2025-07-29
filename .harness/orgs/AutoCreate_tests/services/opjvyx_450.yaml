@@ -1,7 +1,0 @@
-service:
-  name: kujphirj
-  identifier: kujphirj
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: weilyghh
-  identifier: weilyghh
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

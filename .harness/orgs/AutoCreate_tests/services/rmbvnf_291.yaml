@@ -1,7 +1,0 @@
-service:
-  name: jvrkyddo
-  identifier: jvrkyddo
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

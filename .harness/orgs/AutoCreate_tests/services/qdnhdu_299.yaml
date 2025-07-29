@@ -1,7 +1,0 @@
-service:
-  name: mtrxuomm
-  identifier: mtrxuomm
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

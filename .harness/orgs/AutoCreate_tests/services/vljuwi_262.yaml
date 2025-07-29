@@ -1,7 +1,0 @@
-service:
-  name: wltqjjpa
-  identifier: wltqjjpa
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

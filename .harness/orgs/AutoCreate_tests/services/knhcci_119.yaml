@@ -1,7 +1,0 @@
-service:
-  name: jlagugag
-  identifier: jlagugag
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

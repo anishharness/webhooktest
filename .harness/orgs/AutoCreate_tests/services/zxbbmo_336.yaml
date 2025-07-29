@@ -1,7 +1,0 @@
-service:
-  name: opxrbyfg
-  identifier: opxrbyfg
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: cbkvwxrd
-  identifier: cbkvwxrd
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

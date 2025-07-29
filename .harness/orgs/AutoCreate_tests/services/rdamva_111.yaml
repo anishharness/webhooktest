@@ -1,7 +1,0 @@
-service:
-  name: tsjjktod
-  identifier: tsjjktod
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

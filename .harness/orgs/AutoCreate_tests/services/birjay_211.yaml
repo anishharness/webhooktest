@@ -1,7 +1,0 @@
-service:
-  name: qeidbkdp
-  identifier: qeidbkdp
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

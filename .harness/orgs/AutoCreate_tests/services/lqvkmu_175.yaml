@@ -1,7 +1,0 @@
-service:
-  name: zingxksy
-  identifier: zingxksy
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

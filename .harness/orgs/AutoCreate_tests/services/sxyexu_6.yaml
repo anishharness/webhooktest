@@ -1,7 +1,0 @@
-service:
-  name: fbacrsku
-  identifier: fbacrsku
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

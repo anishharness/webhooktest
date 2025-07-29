@@ -1,7 +1,0 @@
-service:
-  name: jczcmewm
-  identifier: jczcmewm
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

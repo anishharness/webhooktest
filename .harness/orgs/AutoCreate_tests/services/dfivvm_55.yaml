@@ -1,7 +1,0 @@
-service:
-  name: fexnyyxp
-  identifier: fexnyyxp
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

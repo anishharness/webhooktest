@@ -1,7 +1,0 @@
-service:
-  name: dfamwxfe
-  identifier: dfamwxfe
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

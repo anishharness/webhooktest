@@ -1,7 +1,0 @@
-service:
-  name: qsyhjnoa
-  identifier: qsyhjnoa
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

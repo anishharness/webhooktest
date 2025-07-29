@@ -1,7 +1,0 @@
-service:
-  name: edsslxex
-  identifier: edsslxex
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

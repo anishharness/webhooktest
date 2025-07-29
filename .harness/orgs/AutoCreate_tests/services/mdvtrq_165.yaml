@@ -1,7 +1,0 @@
-service:
-  name: ssmuyejk
-  identifier: ssmuyejk
-  orgIdentifier: AutoCreate_tests
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

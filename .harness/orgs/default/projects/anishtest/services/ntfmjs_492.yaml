@@ -1,0 +1,8 @@
+service:
+  name: mxgkzynl
+  identifier: mxgkzynl
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: tqsaiykq
+  identifier: tqsaiykq
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

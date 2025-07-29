@@ -1,0 +1,8 @@
+service:
+  name: jrohpcyq
+  identifier: jrohpcyq
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

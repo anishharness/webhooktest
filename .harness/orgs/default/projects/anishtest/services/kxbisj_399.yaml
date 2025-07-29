@@ -1,0 +1,8 @@
+service:
+  name: qmdskbiu
+  identifier: qmdskbiu
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

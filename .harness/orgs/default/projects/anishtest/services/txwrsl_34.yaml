@@ -1,0 +1,8 @@
+service:
+  name: nxoajsxa
+  identifier: nxoajsxa
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

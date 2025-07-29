@@ -1,0 +1,8 @@
+service:
+  name: skuedsya
+  identifier: skuedsya
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

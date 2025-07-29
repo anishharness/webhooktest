@@ -1,0 +1,8 @@
+service:
+  name: jxpuhptz
+  identifier: jxpuhptz
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

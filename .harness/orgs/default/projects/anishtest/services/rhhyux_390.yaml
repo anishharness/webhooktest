@@ -1,0 +1,8 @@
+service:
+  name: talexhbg
+  identifier: talexhbg
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

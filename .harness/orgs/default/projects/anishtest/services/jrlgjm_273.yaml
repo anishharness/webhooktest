@@ -1,0 +1,8 @@
+service:
+  name: ecgnrjip
+  identifier: ecgnrjip
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

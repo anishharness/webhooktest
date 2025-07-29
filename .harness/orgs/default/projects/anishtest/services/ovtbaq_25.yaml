@@ -1,0 +1,8 @@
+service:
+  name: kpnikciq
+  identifier: kpnikciq
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

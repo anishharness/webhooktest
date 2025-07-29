@@ -1,0 +1,8 @@
+service:
+  name: durpvctk
+  identifier: durpvctk
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

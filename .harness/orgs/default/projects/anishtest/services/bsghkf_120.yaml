@@ -1,0 +1,8 @@
+service:
+  name: ohciigqu
+  identifier: ohciigqu
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

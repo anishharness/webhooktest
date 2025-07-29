@@ -1,0 +1,8 @@
+service:
+  name: szvtbytf
+  identifier: szvtbytf
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

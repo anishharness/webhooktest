@@ -1,0 +1,8 @@
+service:
+  name: mibqxxiw
+  identifier: mibqxxiw
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

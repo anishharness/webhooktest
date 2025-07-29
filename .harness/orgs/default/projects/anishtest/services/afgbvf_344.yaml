@@ -1,0 +1,8 @@
+service:
+  name: bjuubosw
+  identifier: bjuubosw
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

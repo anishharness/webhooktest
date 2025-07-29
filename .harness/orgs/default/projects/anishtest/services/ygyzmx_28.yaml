@@ -1,0 +1,8 @@
+service:
+  name: stwovklz
+  identifier: stwovklz
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

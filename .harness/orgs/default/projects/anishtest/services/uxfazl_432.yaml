@@ -1,0 +1,8 @@
+service:
+  name: avcmhyjs
+  identifier: avcmhyjs
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

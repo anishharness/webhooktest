@@ -1,0 +1,8 @@
+service:
+  name: euqyqegx
+  identifier: euqyqegx
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

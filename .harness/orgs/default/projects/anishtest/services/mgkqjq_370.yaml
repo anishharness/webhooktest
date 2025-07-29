@@ -1,0 +1,8 @@
+service:
+  name: usouceay
+  identifier: usouceay
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

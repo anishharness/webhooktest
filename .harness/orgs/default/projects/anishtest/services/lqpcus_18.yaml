@@ -1,0 +1,8 @@
+service:
+  name: bvcqrdtp
+  identifier: bvcqrdtp
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

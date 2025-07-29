@@ -1,0 +1,8 @@
+service:
+  name: rlxbpofc
+  identifier: rlxbpofc
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

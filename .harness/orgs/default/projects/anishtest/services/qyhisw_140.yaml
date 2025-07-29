@@ -1,0 +1,8 @@
+service:
+  name: zwlvrezr
+  identifier: zwlvrezr
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

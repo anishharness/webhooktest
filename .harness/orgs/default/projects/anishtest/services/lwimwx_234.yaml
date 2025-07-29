@@ -1,0 +1,8 @@
+service:
+  name: qhaoxahs
+  identifier: qhaoxahs
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

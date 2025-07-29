@@ -1,0 +1,8 @@
+service:
+  name: ozldlgcz
+  identifier: ozldlgcz
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

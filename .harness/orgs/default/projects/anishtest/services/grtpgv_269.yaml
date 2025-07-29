@@ -1,0 +1,8 @@
+service:
+  name: pbqhlstt
+  identifier: pbqhlstt
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

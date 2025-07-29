@@ -1,0 +1,8 @@
+service:
+  name: tcwjswwk
+  identifier: tcwjswwk
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

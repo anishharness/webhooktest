@@ -1,0 +1,8 @@
+service:
+  name: mluiliks
+  identifier: mluiliks
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

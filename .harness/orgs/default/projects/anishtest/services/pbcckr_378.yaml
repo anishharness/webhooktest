@@ -1,0 +1,8 @@
+service:
+  name: gpedsgom
+  identifier: gpedsgom
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

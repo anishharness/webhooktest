@@ -1,0 +1,8 @@
+service:
+  name: twgdnfmt
+  identifier: twgdnfmt
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

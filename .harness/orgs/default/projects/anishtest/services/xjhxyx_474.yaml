@@ -1,0 +1,8 @@
+service:
+  name: tywbrobm
+  identifier: tywbrobm
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

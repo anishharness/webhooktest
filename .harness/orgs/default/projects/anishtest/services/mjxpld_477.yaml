@@ -1,0 +1,8 @@
+service:
+  name: umhhyqra
+  identifier: umhhyqra
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

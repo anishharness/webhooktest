@@ -1,0 +1,8 @@
+service:
+  name: wxasoqgb
+  identifier: wxasoqgb
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

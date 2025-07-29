@@ -1,0 +1,8 @@
+service:
+  name: iyefyttx
+  identifier: iyefyttx
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

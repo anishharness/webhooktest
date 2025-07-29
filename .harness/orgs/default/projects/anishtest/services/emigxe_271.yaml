@@ -1,0 +1,8 @@
+service:
+  name: neunwxww
+  identifier: neunwxww
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

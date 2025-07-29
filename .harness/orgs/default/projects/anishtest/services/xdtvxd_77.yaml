@@ -1,0 +1,8 @@
+service:
+  name: ecnpwphj
+  identifier: ecnpwphj
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

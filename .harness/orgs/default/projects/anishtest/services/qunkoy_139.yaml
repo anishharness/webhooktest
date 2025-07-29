@@ -1,0 +1,8 @@
+service:
+  name: sjdscmno
+  identifier: sjdscmno
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

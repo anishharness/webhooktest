@@ -1,0 +1,8 @@
+service:
+  name: tzmreypt
+  identifier: tzmreypt
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

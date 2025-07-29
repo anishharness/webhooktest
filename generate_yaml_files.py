@@ -32,7 +32,7 @@ def main():
     """Generate 520 project-specific YAML files with random names and identifiers."""
     # Define your organization and project identifiers
     org_identifier = "default"
-    project_identifier = "myAwesomeProject" # You can change this to your project's ID
+    project_identifier = "anishtest" # You can change this to your project's ID
 
     # Create the correct directory structure for project-level services
     harness_dir = os.path.join(os.getcwd(), f'.harness/orgs/{org_identifier}/projects/{project_identifier}/services')

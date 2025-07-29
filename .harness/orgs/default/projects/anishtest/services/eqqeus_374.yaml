@@ -1,0 +1,8 @@
+service:
+  name: hnmmehzm
+  identifier: hnmmehzm
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

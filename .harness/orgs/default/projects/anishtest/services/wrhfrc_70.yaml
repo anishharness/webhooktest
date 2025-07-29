@@ -1,0 +1,8 @@
+service:
+  name: ecpzeojp
+  identifier: ecpzeojp
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

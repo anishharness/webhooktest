@@ -1,0 +1,8 @@
+service:
+  name: cfwzituq
+  identifier: cfwzituq
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

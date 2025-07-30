@@ -1,8 +1,0 @@
-service:
-  name: xjcmlwoe
-  identifier: xjcmlwoe
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,8 +1,0 @@
-service:
-  name: dfvconli
-  identifier: dfvconli
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

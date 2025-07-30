@@ -1,8 +1,0 @@
-service:
-  name: dlitmixk
-  identifier: dlitmixk
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

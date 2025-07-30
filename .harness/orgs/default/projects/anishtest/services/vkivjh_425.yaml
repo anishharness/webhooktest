@@ -1,8 +1,0 @@
-service:
-  name: zanujwxt
-  identifier: zanujwxt
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

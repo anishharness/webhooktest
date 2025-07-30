@@ -1,8 +1,0 @@
-service:
-  name: jnzemyrc
-  identifier: jnzemyrc
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

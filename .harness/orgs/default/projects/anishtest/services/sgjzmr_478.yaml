@@ -1,8 +1,0 @@
-service:
-  name: mgmjgebv
-  identifier: mgmjgebv
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,8 +1,0 @@
-service:
-  name: ommtlmmw
-  identifier: ommtlmmw
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,8 +1,0 @@
-service:
-  name: qkjntoyk
-  identifier: qkjntoyk
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

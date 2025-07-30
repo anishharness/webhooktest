@@ -1,8 +1,0 @@
-service:
-  name: ainzmwle
-  identifier: ainzmwle
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

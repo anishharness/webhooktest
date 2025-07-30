@@ -1,8 +1,0 @@
-service:
-  name: qahbucph
-  identifier: qahbucph
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

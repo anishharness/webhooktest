@@ -1,8 +1,0 @@
-service:
-  name: toanodnc
-  identifier: toanodnc
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

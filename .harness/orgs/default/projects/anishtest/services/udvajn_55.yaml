@@ -1,8 +1,0 @@
-service:
-  name: vwlxhjit
-  identifier: vwlxhjit
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,8 +1,0 @@
-service:
-  name: nglpibct
-  identifier: nglpibct
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

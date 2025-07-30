@@ -1,8 +1,0 @@
-service:
-  name: vmjuenfz
-  identifier: vmjuenfz
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

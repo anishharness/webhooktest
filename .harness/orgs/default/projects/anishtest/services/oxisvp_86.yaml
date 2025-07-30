@@ -1,8 +1,0 @@
-service:
-  name: rctwkfzr
-  identifier: rctwkfzr
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

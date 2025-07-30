@@ -1,8 +1,0 @@
-service:
-  name: ylwikyyd
-  identifier: ylwikyyd
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

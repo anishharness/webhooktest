@@ -1,8 +1,0 @@
-service:
-  name: ndplogvu
-  identifier: ndplogvu
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

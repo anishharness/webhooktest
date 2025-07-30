@@ -1,8 +1,0 @@
-service:
-  name: erakwmyb
-  identifier: erakwmyb
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

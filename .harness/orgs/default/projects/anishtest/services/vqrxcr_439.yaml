@@ -1,8 +1,0 @@
-service:
-  name: gqzuqomr
-  identifier: gqzuqomr
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

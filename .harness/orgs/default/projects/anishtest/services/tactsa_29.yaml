@@ -1,8 +1,0 @@
-service:
-  name: vwhnjrab
-  identifier: vwhnjrab
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

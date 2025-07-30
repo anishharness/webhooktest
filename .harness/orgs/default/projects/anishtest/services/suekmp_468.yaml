@@ -1,8 +1,0 @@
-service:
-  name: tzrobocx
-  identifier: tzrobocx
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

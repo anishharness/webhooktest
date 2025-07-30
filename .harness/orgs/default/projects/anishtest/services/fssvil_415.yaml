@@ -1,8 +1,0 @@
-service:
-  name: elrloush
-  identifier: elrloush
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

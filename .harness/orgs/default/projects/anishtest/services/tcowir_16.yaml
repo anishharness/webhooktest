@@ -1,8 +1,0 @@
-service:
-  name: hwrbwyrv
-  identifier: hwrbwyrv
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

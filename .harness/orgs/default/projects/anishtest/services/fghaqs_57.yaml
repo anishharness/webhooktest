@@ -1,8 +1,0 @@
-service:
-  name: vdkzcbdp
-  identifier: vdkzcbdp
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

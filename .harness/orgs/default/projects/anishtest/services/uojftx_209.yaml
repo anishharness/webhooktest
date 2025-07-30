@@ -1,8 +1,0 @@
-service:
-  name: ahbrlopy
-  identifier: ahbrlopy
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

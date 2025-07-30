@@ -1,8 +1,0 @@
-service:
-  name: byefptkm
-  identifier: byefptkm
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

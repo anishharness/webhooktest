@@ -1,8 +1,0 @@
-service:
-  name: xbgaocpw
-  identifier: xbgaocpw
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

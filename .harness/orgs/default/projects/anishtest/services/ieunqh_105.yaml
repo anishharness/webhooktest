@@ -1,8 +1,0 @@
-service:
-  name: wvochtjv
-  identifier: wvochtjv
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

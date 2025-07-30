@@ -1,8 +1,0 @@
-service:
-  name: bnumshis
-  identifier: bnumshis
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

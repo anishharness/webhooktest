@@ -1,8 +1,0 @@
-service:
-  name: iovxhrmc
-  identifier: iovxhrmc
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

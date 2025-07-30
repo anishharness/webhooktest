@@ -1,8 +1,0 @@
-service:
-  name: hivwbikf
-  identifier: hivwbikf
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

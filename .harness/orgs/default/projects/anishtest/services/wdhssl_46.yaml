@@ -1,8 +1,0 @@
-service:
-  name: wkeojznk
-  identifier: wkeojznk
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

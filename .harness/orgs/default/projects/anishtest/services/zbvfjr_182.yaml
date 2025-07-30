@@ -1,8 +1,0 @@
-service:
-  name: dpfpupun
-  identifier: dpfpupun
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

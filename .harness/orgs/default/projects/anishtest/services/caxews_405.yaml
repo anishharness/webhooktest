@@ -1,8 +1,0 @@
-service:
-  name: pvtqrner
-  identifier: pvtqrner
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,8 +1,0 @@
-service:
-  name: kienzdxt
-  identifier: kienzdxt
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

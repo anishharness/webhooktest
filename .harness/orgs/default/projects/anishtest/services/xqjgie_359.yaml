@@ -1,8 +1,0 @@
-service:
-  name: svbzvczu
-  identifier: svbzvczu
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

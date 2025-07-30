@@ -1,8 +1,0 @@
-service:
-  name: pptthsyq
-  identifier: pptthsyq
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

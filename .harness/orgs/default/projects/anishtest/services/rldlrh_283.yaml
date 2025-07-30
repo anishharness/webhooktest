@@ -1,8 +1,0 @@
-service:
-  name: fhdqxbjz
-  identifier: fhdqxbjz
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

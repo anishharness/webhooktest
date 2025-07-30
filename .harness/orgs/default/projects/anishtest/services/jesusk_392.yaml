@@ -1,8 +1,0 @@
-service:
-  name: lttnyutl
-  identifier: lttnyutl
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

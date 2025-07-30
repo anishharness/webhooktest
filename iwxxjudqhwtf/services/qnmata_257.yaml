@@ -1,0 +1,8 @@
+service:
+  name: xdgxrrqq
+  identifier: xdgxrrqq
+  projectIdentifier: iwxxjudqhwtf
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

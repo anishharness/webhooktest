@@ -1,0 +1,8 @@
+service:
+  name: jebyinmt
+  identifier: jebyinmt
+  projectIdentifier: cvfuxxjciraw
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

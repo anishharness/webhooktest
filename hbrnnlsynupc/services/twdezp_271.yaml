@@ -1,0 +1,8 @@
+service:
+  name: nultxmhl
+  identifier: nultxmhl
+  projectIdentifier: hbrnnlsynupc
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: sgsjbyid
+  identifier: sgsjbyid
+  projectIdentifier: mytbmgsyxqzv
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

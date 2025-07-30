@@ -1,0 +1,8 @@
+service:
+  name: iovxgoty
+  identifier: iovxgoty
+  projectIdentifier: pwspoelehqjx
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

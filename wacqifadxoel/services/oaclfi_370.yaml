@@ -1,0 +1,8 @@
+service:
+  name: aspfvnfn
+  identifier: aspfvnfn
+  projectIdentifier: wacqifadxoel
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

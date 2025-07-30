@@ -1,0 +1,8 @@
+service:
+  name: ysctfrky
+  identifier: ysctfrky
+  projectIdentifier: jayfwcjiluhl
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

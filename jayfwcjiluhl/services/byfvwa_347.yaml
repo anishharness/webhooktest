@@ -1,0 +1,8 @@
+service:
+  name: klrstplr
+  identifier: klrstplr
+  projectIdentifier: jayfwcjiluhl
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

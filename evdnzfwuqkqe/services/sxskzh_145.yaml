@@ -1,0 +1,8 @@
+service:
+  name: gzmaenac
+  identifier: gzmaenac
+  projectIdentifier: evdnzfwuqkqe
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

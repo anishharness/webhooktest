@@ -1,0 +1,8 @@
+service:
+  name: mbaibzty
+  identifier: mbaibzty
+  projectIdentifier: qmiodgaypzmm
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

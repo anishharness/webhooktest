@@ -1,0 +1,8 @@
+service:
+  name: zmxjfrzu
+  identifier: zmxjfrzu
+  projectIdentifier: mytbmgsyxqzv
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: nlajumfd
+  identifier: nlajumfd
+  projectIdentifier: pwspoelehqjx
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: rasnonvn
+  identifier: rasnonvn
+  projectIdentifier: rmsxztjxqajy
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

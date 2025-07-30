@@ -1,0 +1,8 @@
+service:
+  name: qctvtawc
+  identifier: qctvtawc
+  projectIdentifier: iwxxjudqhwtf
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

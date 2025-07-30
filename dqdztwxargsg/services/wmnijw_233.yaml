@@ -1,0 +1,8 @@
+service:
+  name: spunwuhw
+  identifier: spunwuhw
+  projectIdentifier: dqdztwxargsg
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: jblxrkwg
+  identifier: jblxrkwg
+  projectIdentifier: manqtbqxrsrk
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

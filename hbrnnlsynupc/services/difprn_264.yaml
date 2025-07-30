@@ -1,0 +1,8 @@
+service:
+  name: zffvhicf
+  identifier: zffvhicf
+  projectIdentifier: hbrnnlsynupc
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

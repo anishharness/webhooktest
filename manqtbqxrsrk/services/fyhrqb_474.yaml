@@ -1,0 +1,8 @@
+service:
+  name: ckksorez
+  identifier: ckksorez
+  projectIdentifier: manqtbqxrsrk
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

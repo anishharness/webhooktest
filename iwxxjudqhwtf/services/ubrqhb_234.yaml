@@ -1,0 +1,8 @@
+service:
+  name: rprnfhpr
+  identifier: rprnfhpr
+  projectIdentifier: iwxxjudqhwtf
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

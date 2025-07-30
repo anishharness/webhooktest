@@ -1,0 +1,8 @@
+service:
+  name: qmoupwgu
+  identifier: qmoupwgu
+  projectIdentifier: wacqifadxoel
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

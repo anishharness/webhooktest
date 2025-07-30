@@ -1,0 +1,8 @@
+service:
+  name: ureahydk
+  identifier: ureahydk
+  projectIdentifier: qqhvsltzmcrf
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

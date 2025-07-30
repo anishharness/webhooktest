@@ -1,0 +1,8 @@
+service:
+  name: ateyodhu
+  identifier: ateyodhu
+  projectIdentifier: xrxvqhvjcohg
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: shvwobea
+  identifier: shvwobea
+  projectIdentifier: wacqifadxoel
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: qzwkrlfe
+  identifier: qzwkrlfe
+  projectIdentifier: rmsxztjxqajy
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

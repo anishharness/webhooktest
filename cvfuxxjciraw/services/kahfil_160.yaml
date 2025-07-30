@@ -1,0 +1,8 @@
+service:
+  name: zfccexth
+  identifier: zfccexth
+  projectIdentifier: cvfuxxjciraw
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

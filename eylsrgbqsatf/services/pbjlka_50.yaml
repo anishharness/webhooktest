@@ -1,0 +1,8 @@
+service:
+  name: mgzhmwtw
+  identifier: mgzhmwtw
+  projectIdentifier: eylsrgbqsatf
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

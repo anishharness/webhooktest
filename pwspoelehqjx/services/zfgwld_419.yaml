@@ -1,0 +1,8 @@
+service:
+  name: atjeknlj
+  identifier: atjeknlj
+  projectIdentifier: pwspoelehqjx
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

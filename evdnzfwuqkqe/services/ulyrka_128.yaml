@@ -1,0 +1,8 @@
+service:
+  name: jnjqgeua
+  identifier: jnjqgeua
+  projectIdentifier: evdnzfwuqkqe
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

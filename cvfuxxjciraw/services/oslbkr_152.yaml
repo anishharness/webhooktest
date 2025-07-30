@@ -1,0 +1,8 @@
+service:
+  name: zvseqwij
+  identifier: zvseqwij
+  projectIdentifier: cvfuxxjciraw
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

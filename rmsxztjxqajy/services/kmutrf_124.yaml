@@ -1,0 +1,8 @@
+service:
+  name: wpwpuwwy
+  identifier: wpwpuwwy
+  projectIdentifier: rmsxztjxqajy
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

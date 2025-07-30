@@ -1,0 +1,8 @@
+service:
+  name: qcrrladt
+  identifier: qcrrladt
+  projectIdentifier: hbrnnlsynupc
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: nflcqili
+  identifier: nflcqili
+  projectIdentifier: biujrrovikbh
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

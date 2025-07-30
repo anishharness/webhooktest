@@ -1,0 +1,8 @@
+service:
+  name: cfjqnwiv
+  identifier: cfjqnwiv
+  projectIdentifier: rmsxztjxqajy
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: jpgnmeel
+  identifier: jpgnmeel
+  projectIdentifier: qqhvsltzmcrf
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

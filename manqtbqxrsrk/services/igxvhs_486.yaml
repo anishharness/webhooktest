@@ -1,0 +1,8 @@
+service:
+  name: mppdrhlr
+  identifier: mppdrhlr
+  projectIdentifier: manqtbqxrsrk
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

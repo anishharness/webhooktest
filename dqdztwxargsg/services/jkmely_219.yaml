@@ -1,0 +1,8 @@
+service:
+  name: vgsobzha
+  identifier: vgsobzha
+  projectIdentifier: dqdztwxargsg
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: tmcuxddf
+  identifier: tmcuxddf
+  projectIdentifier: pwspoelehqjx
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

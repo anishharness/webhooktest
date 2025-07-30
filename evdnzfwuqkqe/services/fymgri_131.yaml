@@ -1,0 +1,8 @@
+service:
+  name: gblmfdbn
+  identifier: gblmfdbn
+  projectIdentifier: evdnzfwuqkqe
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

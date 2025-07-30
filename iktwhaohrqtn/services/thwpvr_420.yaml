@@ -1,0 +1,8 @@
+service:
+  name: evvdbvvb
+  identifier: evvdbvvb
+  projectIdentifier: iktwhaohrqtn
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

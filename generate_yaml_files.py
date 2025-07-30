@@ -43,7 +43,7 @@ def main():
         current_directory_path = os.path.join(os.getcwd(), random_dir_name)
         
         # Decide how many files to create in this new directory
-        num_files_in_this_group = random.randint(5, 10)
+        num_files_in_this_group = random.randint(20, 40)
         
         print(f"\nCreating new directory '{random_dir_name}' for {num_files_in_this_group} files...")
 

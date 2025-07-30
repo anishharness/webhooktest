@@ -1,0 +1,8 @@
+service:
+  name: qfkyrawd
+  identifier: qfkyrawd
+  projectIdentifier: egnjxbuxzwfy
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

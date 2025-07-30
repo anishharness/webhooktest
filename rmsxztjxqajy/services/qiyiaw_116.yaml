@@ -1,0 +1,8 @@
+service:
+  name: fogbhyjf
+  identifier: fogbhyjf
+  projectIdentifier: rmsxztjxqajy
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

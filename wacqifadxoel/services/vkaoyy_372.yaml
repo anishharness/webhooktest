@@ -1,0 +1,8 @@
+service:
+  name: qesagjmo
+  identifier: qesagjmo
+  projectIdentifier: wacqifadxoel
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

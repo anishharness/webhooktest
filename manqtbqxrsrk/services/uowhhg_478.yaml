@@ -1,0 +1,8 @@
+service:
+  name: vmfidczl
+  identifier: vmfidczl
+  projectIdentifier: manqtbqxrsrk
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

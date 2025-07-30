@@ -1,0 +1,8 @@
+service:
+  name: okewudim
+  identifier: okewudim
+  projectIdentifier: iwxxjudqhwtf
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

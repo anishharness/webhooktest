@@ -1,0 +1,8 @@
+service:
+  name: bmcjkzjg
+  identifier: bmcjkzjg
+  projectIdentifier: evdnzfwuqkqe
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

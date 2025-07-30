@@ -1,0 +1,8 @@
+service:
+  name: vczfokhi
+  identifier: vczfokhi
+  projectIdentifier: wacqifadxoel
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

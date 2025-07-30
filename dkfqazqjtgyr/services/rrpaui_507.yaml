@@ -1,0 +1,8 @@
+service:
+  name: pizpcpln
+  identifier: pizpcpln
+  projectIdentifier: dkfqazqjtgyr
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

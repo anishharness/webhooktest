@@ -1,0 +1,8 @@
+service:
+  name: lrshwglz
+  identifier: lrshwglz
+  projectIdentifier: iwxxjudqhwtf
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

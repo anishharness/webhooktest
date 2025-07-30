@@ -1,0 +1,8 @@
+service:
+  name: xrhwkdkx
+  identifier: xrhwkdkx
+  projectIdentifier: cvfuxxjciraw
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

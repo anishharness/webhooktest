@@ -1,0 +1,8 @@
+service:
+  name: oywygmeu
+  identifier: oywygmeu
+  projectIdentifier: hbrnnlsynupc
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

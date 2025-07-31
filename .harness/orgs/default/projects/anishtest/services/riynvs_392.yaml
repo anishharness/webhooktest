@@ -1,0 +1,8 @@
+service:
+  name: uvqkzsrq
+  identifier: uvqkzsrq
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

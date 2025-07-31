@@ -1,8 +1,0 @@
-service:
-  name: bnmplkge
-  identifier: bnmplkge
-  projectIdentifier: gyjgputipixk
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

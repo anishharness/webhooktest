@@ -1,0 +1,8 @@
+service:
+  name: xxxtigjl
+  identifier: xxxtigjl
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: nujlktwk
+  identifier: nujlktwk
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

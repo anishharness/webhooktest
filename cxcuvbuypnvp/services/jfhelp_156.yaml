@@ -1,8 +1,0 @@
-service:
-  name: fbloxzpu
-  identifier: fbloxzpu
-  projectIdentifier: cxcuvbuypnvp
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

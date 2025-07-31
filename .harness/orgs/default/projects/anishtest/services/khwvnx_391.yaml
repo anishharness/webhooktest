@@ -1,0 +1,8 @@
+service:
+  name: oajfjaco
+  identifier: oajfjaco
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

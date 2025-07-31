@@ -1,0 +1,8 @@
+service:
+  name: nsoydrom
+  identifier: nsoydrom
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

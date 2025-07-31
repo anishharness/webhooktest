@@ -1,8 +1,0 @@
-service:
-  name: aeirepxu
-  identifier: aeirepxu
-  projectIdentifier: egkpeoqytjko
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

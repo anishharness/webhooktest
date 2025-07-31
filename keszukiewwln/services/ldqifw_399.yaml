@@ -1,8 +1,0 @@
-service:
-  name: bpwxwabo
-  identifier: bpwxwabo
-  projectIdentifier: keszukiewwln
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

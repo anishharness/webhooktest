@@ -1,8 +1,0 @@
-service:
-  name: zhdopwlx
-  identifier: zhdopwlx
-  projectIdentifier: nhzidgxtkwri
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

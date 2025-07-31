@@ -1,0 +1,8 @@
+service:
+  name: uzokkuds
+  identifier: uzokkuds
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

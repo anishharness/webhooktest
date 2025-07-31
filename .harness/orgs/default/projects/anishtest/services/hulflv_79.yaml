@@ -1,0 +1,8 @@
+service:
+  name: fjmzgacr
+  identifier: fjmzgacr
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

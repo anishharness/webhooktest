@@ -1,8 +1,0 @@
-service:
-  name: ncsnohrh
-  identifier: ncsnohrh
-  projectIdentifier: bxxwygelkagf
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

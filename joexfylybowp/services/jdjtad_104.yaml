@@ -1,8 +1,0 @@
-service:
-  name: dvbkdoaj
-  identifier: dvbkdoaj
-  projectIdentifier: joexfylybowp
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

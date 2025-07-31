@@ -1,0 +1,8 @@
+service:
+  name: xhejpzgd
+  identifier: xhejpzgd
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

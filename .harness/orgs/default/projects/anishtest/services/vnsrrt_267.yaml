@@ -1,0 +1,8 @@
+service:
+  name: frxhjwgl
+  identifier: frxhjwgl
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

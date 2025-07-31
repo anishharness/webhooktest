@@ -1,8 +1,0 @@
-service:
-  name: edtmoxgo
-  identifier: edtmoxgo
-  projectIdentifier: joexfylybowp
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: rnlukrjz
+  identifier: rnlukrjz
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

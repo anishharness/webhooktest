@@ -1,0 +1,8 @@
+service:
+  name: jjaeunyz
+  identifier: jjaeunyz
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

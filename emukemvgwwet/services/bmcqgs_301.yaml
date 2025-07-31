@@ -1,8 +1,0 @@
-service:
-  name: khgzrjah
-  identifier: khgzrjah
-  projectIdentifier: emukemvgwwet
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

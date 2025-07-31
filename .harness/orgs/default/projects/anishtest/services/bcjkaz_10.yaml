@@ -1,0 +1,8 @@
+service:
+  name: xowehiqt
+  identifier: xowehiqt
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: djokrbmt
+  identifier: djokrbmt
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

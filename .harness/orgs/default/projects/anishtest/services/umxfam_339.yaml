@@ -1,0 +1,8 @@
+service:
+  name: dnefecev
+  identifier: dnefecev
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

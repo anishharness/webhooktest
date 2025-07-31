@@ -1,0 +1,8 @@
+service:
+  name: wkwpdwdo
+  identifier: wkwpdwdo
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

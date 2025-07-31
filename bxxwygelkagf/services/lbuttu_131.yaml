@@ -1,8 +1,0 @@
-service:
-  name: ijytifqi
-  identifier: ijytifqi
-  projectIdentifier: bxxwygelkagf
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: iszthfzd
+  identifier: iszthfzd
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

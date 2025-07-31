@@ -1,8 +1,0 @@
-service:
-  name: nivuafsh
-  identifier: nivuafsh
-  projectIdentifier: liqwnzguckix
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

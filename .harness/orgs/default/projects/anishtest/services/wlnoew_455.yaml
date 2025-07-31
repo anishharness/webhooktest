@@ -1,0 +1,8 @@
+service:
+  name: wxjqyecq
+  identifier: wxjqyecq
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

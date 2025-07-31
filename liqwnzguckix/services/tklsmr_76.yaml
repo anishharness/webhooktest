@@ -1,8 +1,0 @@
-service:
-  name: hszlrnov
-  identifier: hszlrnov
-  projectIdentifier: liqwnzguckix
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

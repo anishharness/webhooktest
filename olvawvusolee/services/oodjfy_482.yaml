@@ -1,8 +1,0 @@
-service:
-  name: vznqerog
-  identifier: vznqerog
-  projectIdentifier: olvawvusolee
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,8 +1,0 @@
-service:
-  name: trmskfui
-  identifier: trmskfui
-  projectIdentifier: olvawvusolee
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

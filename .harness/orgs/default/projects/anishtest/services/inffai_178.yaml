@@ -1,0 +1,8 @@
+service:
+  name: lnzkyvqy
+  identifier: lnzkyvqy
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

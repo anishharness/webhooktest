@@ -1,0 +1,8 @@
+service:
+  name: wtywsjzn
+  identifier: wtywsjzn
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,8 +1,0 @@
-service:
-  name: iwpqkfya
-  identifier: iwpqkfya
-  projectIdentifier: gyjgputipixk
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

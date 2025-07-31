@@ -1,0 +1,8 @@
+service:
+  name: avqozgfs
+  identifier: avqozgfs
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,8 +1,0 @@
-service:
-  name: yxdmtwmp
-  identifier: yxdmtwmp
-  projectIdentifier: jkuvajsdvzny
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

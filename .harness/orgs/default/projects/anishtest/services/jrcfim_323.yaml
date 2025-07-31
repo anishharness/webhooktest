@@ -1,0 +1,8 @@
+service:
+  name: ybbtbtwc
+  identifier: ybbtbtwc
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: inqggkbt
+  identifier: inqggkbt
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -8,8 +8,9 @@ def generate_random_string(length=8):
     return ''.join(random.choice(letters) for _ in range(length))
 
 def create_yaml_file(file_path, name, identifier, project_identifier, org_identifier):
-    """Create a project-specific YAML file with the specified name and identifier."""
-    # Create YAML content. The projectIdentifier will match the random directory name.
+
+    """Create a YAML file with the specified name and identifier."""
+    # Create YAML content as a formatted string
     yaml_content = f"""service:
   name: {name}
   identifier: {identifier}
@@ -20,55 +21,45 @@ def create_yaml_file(file_path, name, identifier, project_identifier, org_identi
     type: Kubernetes
 """
     
-    # Ensure the directory exists before writing the file
+    # Ensure directory exists
     os.makedirs(os.path.dirname(file_path), exist_ok=True)
     
-    # Write the YAML file
+    # Write YAML file
     with open(file_path, 'w') as f:
         f.write(yaml_content)
 
 def main():
-    """Generate 520 YAML files, grouped into random directories."""
+    """Generate 541 YAML files with random names and identifiers."""
+    # Create .harness directory if it doesn't exist
+    
     org_identifier = "default"
-    num_files_to_generate = 520
-    files_generated_count = 0
+    project_identifier = "anishtest" # You can change this to your project's ID
 
-    print(f"Generating {num_files_to_generate} YAML files in groups of 5-10 per random directory...")
-
-    # Loop until we've generated the desired number of files
-    while files_generated_count < num_files_to_generate:
-        # --- CHANGE: Create a new random directory name for a group of files ---
-        # This directory will be created in the current working path.
-        random_dir_name = generate_random_string(12)
-        current_directory_path = os.path.join(os.getcwd(), random_dir_name)
+    # Create the correct directory structure for project-level services
+    harness_dir = os.path.join(os.getcwd(), f'.harness/orgs/{org_identifier}/projects/{project_identifier}/services')
+    os.makedirs(harness_dir, exist_ok=True)
+    
+    print(f"Generating 521 YAML files in {harness_dir}...")
+    
+    # Generate 541 files
+    for i in range(1, 521):
+        # Generate random name for the file
+        file_name = f"{generate_random_string(6)}_{i}.yaml"
+        file_path = os.path.join(harness_dir, file_name)
         
-        # Decide how many files to create in this new directory
-        num_files_in_this_group = random.randint(20, 40)
+        # Generate random name and identifier for the content
+        service_name = generate_random_string(8)
+        service_identifier = service_name
         
-        print(f"\nCreating new directory '{random_dir_name}' for {num_files_in_this_group} files...")
+        # Create the YAML file
+        create_yaml_file(file_path, service_name, service_identifier, project_identifier, org_identifier)
 
-        # --- CHANGE: Inner loop to create a group of files in the same directory ---
-        for i in range(num_files_in_this_group):
-            # Stop if we have reached the total file limit
-            if files_generated_count >= num_files_to_generate:
-                break
-
-            files_generated_count += 1
-            
-            # Generate a random name for the YAML file
-            file_name = f"{generate_random_string(6)}_{files_generated_count}.yaml"
-            file_path = os.path.join(current_directory_path, 'services', file_name)
-            
-            # Generate random name and identifier for the service content
-            service_name = generate_random_string(8)
-            service_identifier = service_name
-            
-            # Create the YAML file. The random directory name is used as the projectIdentifier.
-            create_yaml_file(file_path, service_name, service_identifier, random_dir_name, org_identifier)
         
-        print(f"Generated {files_generated_count}/{num_files_to_generate} files so far.")
-
-    print(f"\nSuccessfully generated a total of {files_generated_count} YAML files.")
+        # Print progress every 50 files
+        if i % 50 == 0:
+            print(f"Generated {i} files...")
+    
+    print(f"Successfully generated 541 YAML files in {harness_dir}")
 
 if __name__ == "__main__":
     main()

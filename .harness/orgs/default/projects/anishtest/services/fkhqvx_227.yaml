@@ -1,0 +1,8 @@
+service:
+  name: wfkshixk
+  identifier: wfkshixk
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

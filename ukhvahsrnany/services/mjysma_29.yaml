@@ -1,8 +1,0 @@
-service:
-  name: hjrwbcil
-  identifier: hjrwbcil
-  projectIdentifier: ukhvahsrnany
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

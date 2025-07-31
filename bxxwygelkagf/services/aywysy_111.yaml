@@ -1,8 +1,0 @@
-service:
-  name: imdadxva
-  identifier: imdadxva
-  projectIdentifier: bxxwygelkagf
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

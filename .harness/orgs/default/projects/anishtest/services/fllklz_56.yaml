@@ -1,0 +1,8 @@
+service:
+  name: wankqkpx
+  identifier: wankqkpx
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

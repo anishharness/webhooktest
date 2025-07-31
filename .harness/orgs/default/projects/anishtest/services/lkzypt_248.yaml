@@ -1,0 +1,8 @@
+service:
+  name: bvutxryh
+  identifier: bvutxryh
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

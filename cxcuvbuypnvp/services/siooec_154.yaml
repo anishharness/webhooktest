@@ -1,8 +1,0 @@
-service:
-  name: nibdzgrx
-  identifier: nibdzgrx
-  projectIdentifier: cxcuvbuypnvp
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

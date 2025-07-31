@@ -1,8 +1,0 @@
-service:
-  name: axiwtnhu
-  identifier: axiwtnhu
-  projectIdentifier: ukhvahsrnany
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

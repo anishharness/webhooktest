@@ -1,0 +1,8 @@
+service:
+  name: sdmwfgwq
+  identifier: sdmwfgwq
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

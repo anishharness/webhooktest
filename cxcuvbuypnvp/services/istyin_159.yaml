@@ -1,8 +1,0 @@
-service:
-  name: vqycetxg
-  identifier: vqycetxg
-  projectIdentifier: cxcuvbuypnvp
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: afekixzl
+  identifier: afekixzl
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

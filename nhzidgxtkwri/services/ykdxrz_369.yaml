@@ -1,8 +1,0 @@
-service:
-  name: ymxmwnft
-  identifier: ymxmwnft
-  projectIdentifier: nhzidgxtkwri
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

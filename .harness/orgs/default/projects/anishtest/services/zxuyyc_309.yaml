@@ -1,0 +1,8 @@
+service:
+  name: jbtibadw
+  identifier: jbtibadw
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: ijofdfja
+  identifier: ijofdfja
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

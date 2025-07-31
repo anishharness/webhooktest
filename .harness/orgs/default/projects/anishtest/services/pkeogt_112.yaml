@@ -1,0 +1,8 @@
+service:
+  name: fmjsnfzv
+  identifier: fmjsnfzv
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

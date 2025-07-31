@@ -1,0 +1,8 @@
+service:
+  name: cuhnshjw
+  identifier: cuhnshjw
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

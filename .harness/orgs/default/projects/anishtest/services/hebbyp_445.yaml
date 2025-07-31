@@ -1,0 +1,8 @@
+service:
+  name: eubmuhmt
+  identifier: eubmuhmt
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

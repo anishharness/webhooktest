@@ -1,8 +1,0 @@
-service:
-  name: wjepypxn
-  identifier: wjepypxn
-  projectIdentifier: ukhvahsrnany
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,8 +1,0 @@
-service:
-  name: wtgayxbr
-  identifier: wtgayxbr
-  projectIdentifier: liqwnzguckix
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

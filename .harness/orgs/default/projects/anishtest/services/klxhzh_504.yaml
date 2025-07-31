@@ -1,0 +1,8 @@
+service:
+  name: vuixhzui
+  identifier: vuixhzui
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: qjbfuoia
+  identifier: qjbfuoia
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

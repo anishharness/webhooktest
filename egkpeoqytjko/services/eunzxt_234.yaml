@@ -1,8 +1,0 @@
-service:
-  name: ljuifdvw
-  identifier: ljuifdvw
-  projectIdentifier: egkpeoqytjko
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

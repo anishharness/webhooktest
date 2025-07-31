@@ -1,8 +1,0 @@
-service:
-  name: ucnhrrdj
-  identifier: ucnhrrdj
-  projectIdentifier: ynskytljftiz
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

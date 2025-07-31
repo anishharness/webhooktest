@@ -1,0 +1,8 @@
+service:
+  name: hoylccdl
+  identifier: hoylccdl
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

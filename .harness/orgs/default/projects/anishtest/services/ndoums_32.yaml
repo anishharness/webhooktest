@@ -1,0 +1,8 @@
+service:
+  name: vnsbryhf
+  identifier: vnsbryhf
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

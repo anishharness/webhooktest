@@ -1,8 +1,0 @@
-service:
-  name: gbitzfcs
-  identifier: gbitzfcs
-  projectIdentifier: bxxwygelkagf
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

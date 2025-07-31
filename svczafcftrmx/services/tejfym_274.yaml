@@ -1,8 +1,0 @@
-service:
-  name: cficlncx
-  identifier: cficlncx
-  projectIdentifier: svczafcftrmx
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

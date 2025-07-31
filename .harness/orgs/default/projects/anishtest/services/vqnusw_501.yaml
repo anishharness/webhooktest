@@ -1,0 +1,8 @@
+service:
+  name: jmrucchq
+  identifier: jmrucchq
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: tmzwpiay
+  identifier: tmzwpiay
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

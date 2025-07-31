@@ -1,0 +1,8 @@
+service:
+  name: svyogzly
+  identifier: svyogzly
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

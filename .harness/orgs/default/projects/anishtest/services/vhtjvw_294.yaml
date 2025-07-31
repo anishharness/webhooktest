@@ -1,0 +1,8 @@
+service:
+  name: zvvzygmf
+  identifier: zvvzygmf
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

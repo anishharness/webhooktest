@@ -1,8 +1,0 @@
-service:
-  name: nqbtrzfm
-  identifier: nqbtrzfm
-  projectIdentifier: svczafcftrmx
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

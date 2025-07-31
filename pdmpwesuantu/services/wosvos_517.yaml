@@ -1,8 +1,0 @@
-service:
-  name: kwwaqswc
-  identifier: kwwaqswc
-  projectIdentifier: pdmpwesuantu
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

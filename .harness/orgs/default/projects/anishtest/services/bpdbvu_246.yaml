@@ -1,0 +1,8 @@
+service:
+  name: vlrnvhgb
+  identifier: vlrnvhgb
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

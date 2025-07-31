@@ -1,0 +1,8 @@
+service:
+  name: dtvfmdak
+  identifier: dtvfmdak
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

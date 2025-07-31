@@ -1,8 +1,0 @@
-service:
-  name: ioksemqm
-  identifier: ioksemqm
-  projectIdentifier: ynskytljftiz
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

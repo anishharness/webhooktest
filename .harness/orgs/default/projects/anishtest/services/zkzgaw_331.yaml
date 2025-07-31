@@ -1,0 +1,8 @@
+service:
+  name: vkqqmwoq
+  identifier: vkqqmwoq
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

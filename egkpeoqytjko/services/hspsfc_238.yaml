@@ -1,8 +1,0 @@
-service:
-  name: rlpccuwb
-  identifier: rlpccuwb
-  projectIdentifier: egkpeoqytjko
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

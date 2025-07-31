@@ -1,8 +1,0 @@
-service:
-  name: klvyggul
-  identifier: klvyggul
-  projectIdentifier: ynskytljftiz
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

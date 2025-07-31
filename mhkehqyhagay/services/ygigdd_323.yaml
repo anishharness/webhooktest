@@ -1,8 +1,0 @@
-service:
-  name: jyvnfgsd
-  identifier: jyvnfgsd
-  projectIdentifier: mhkehqyhagay
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,8 +1,0 @@
-service:
-  name: qpncgcuj
-  identifier: qpncgcuj
-  projectIdentifier: rmsxztjxqajy
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

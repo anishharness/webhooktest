@@ -1,8 +1,0 @@
-service:
-  name: tahqqprw
-  identifier: tahqqprw
-  projectIdentifier: cvfuxxjciraw
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

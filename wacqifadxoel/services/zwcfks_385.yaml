@@ -1,8 +1,0 @@
-service:
-  name: dcdfcjub
-  identifier: dcdfcjub
-  projectIdentifier: wacqifadxoel
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

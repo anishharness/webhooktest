@@ -1,8 +1,0 @@
-service:
-  name: mzeorpyc
-  identifier: mzeorpyc
-  projectIdentifier: manqtbqxrsrk
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

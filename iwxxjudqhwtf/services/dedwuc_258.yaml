@@ -1,8 +1,0 @@
-service:
-  name: inglduwf
-  identifier: inglduwf
-  projectIdentifier: iwxxjudqhwtf
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,8 +1,0 @@
-service:
-  name: ksjndocc
-  identifier: ksjndocc
-  projectIdentifier: hbrnnlsynupc
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,8 +1,0 @@
-service:
-  name: ldurfslf
-  identifier: ldurfslf
-  projectIdentifier: wacqifadxoel
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

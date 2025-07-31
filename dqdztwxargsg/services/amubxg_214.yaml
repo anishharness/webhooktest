@@ -1,8 +1,0 @@
-service:
-  name: axypgpbs
-  identifier: axypgpbs
-  projectIdentifier: dqdztwxargsg
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

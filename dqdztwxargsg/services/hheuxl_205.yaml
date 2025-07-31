@@ -1,8 +1,0 @@
-service:
-  name: rgajfiya
-  identifier: rgajfiya
-  projectIdentifier: dqdztwxargsg
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

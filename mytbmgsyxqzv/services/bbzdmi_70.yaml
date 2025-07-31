@@ -1,8 +1,0 @@
-service:
-  name: suflrvrw
-  identifier: suflrvrw
-  projectIdentifier: mytbmgsyxqzv
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

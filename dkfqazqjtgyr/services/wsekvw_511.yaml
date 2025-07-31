@@ -1,8 +1,0 @@
-service:
-  name: spvhxnpi
-  identifier: spvhxnpi
-  projectIdentifier: dkfqazqjtgyr
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

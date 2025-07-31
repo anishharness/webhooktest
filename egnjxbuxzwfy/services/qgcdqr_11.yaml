@@ -1,8 +1,0 @@
-service:
-  name: szhlaqsi
-  identifier: szhlaqsi
-  projectIdentifier: egnjxbuxzwfy
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

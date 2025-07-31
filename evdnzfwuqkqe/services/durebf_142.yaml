@@ -1,8 +1,0 @@
-service:
-  name: gaqoyxpq
-  identifier: gaqoyxpq
-  projectIdentifier: evdnzfwuqkqe
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

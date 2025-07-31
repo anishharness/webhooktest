@@ -1,8 +1,0 @@
-service:
-  name: tnnkecbd
-  identifier: tnnkecbd
-  projectIdentifier: manqtbqxrsrk
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

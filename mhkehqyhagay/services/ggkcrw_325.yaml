@@ -1,8 +1,0 @@
-service:
-  name: qhyahvop
-  identifier: qhyahvop
-  projectIdentifier: mhkehqyhagay
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

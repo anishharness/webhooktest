@@ -1,8 +1,0 @@
-service:
-  name: gqycrpjy
-  identifier: gqycrpjy
-  projectIdentifier: biujrrovikbh
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

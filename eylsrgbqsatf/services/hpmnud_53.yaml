@@ -1,8 +1,0 @@
-service:
-  name: uxphxvhj
-  identifier: uxphxvhj
-  projectIdentifier: eylsrgbqsatf
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

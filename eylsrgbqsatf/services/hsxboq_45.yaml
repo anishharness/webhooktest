@@ -1,8 +1,0 @@
-service:
-  name: ogduurga
-  identifier: ogduurga
-  projectIdentifier: eylsrgbqsatf
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

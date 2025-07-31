@@ -1,8 +1,0 @@
-service:
-  name: sikdowvn
-  identifier: sikdowvn
-  projectIdentifier: mytbmgsyxqzv
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

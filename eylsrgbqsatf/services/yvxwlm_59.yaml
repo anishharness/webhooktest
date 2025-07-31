@@ -1,8 +1,0 @@
-service:
-  name: iasfxljw
-  identifier: iasfxljw
-  projectIdentifier: eylsrgbqsatf
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

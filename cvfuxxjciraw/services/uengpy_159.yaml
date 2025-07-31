@@ -1,8 +1,0 @@
-service:
-  name: evofuskc
-  identifier: evofuskc
-  projectIdentifier: cvfuxxjciraw
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

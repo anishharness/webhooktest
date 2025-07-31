@@ -1,8 +1,0 @@
-service:
-  name: qpxklaxo
-  identifier: qpxklaxo
-  projectIdentifier: iktwhaohrqtn
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

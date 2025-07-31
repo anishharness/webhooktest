@@ -1,8 +1,0 @@
-service:
-  name: wjxoeiud
-  identifier: wjxoeiud
-  projectIdentifier: eylsrgbqsatf
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

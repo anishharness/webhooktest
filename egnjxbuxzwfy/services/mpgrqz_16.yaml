@@ -1,8 +1,0 @@
-service:
-  name: uthmgozc
-  identifier: uthmgozc
-  projectIdentifier: egnjxbuxzwfy
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

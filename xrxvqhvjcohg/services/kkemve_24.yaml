@@ -1,8 +1,0 @@
-service:
-  name: iwenefhf
-  identifier: iwenefhf
-  projectIdentifier: xrxvqhvjcohg
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,8 +1,0 @@
-service:
-  name: avgceodk
-  identifier: avgceodk
-  projectIdentifier: jayfwcjiluhl
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,8 +1,0 @@
-service:
-  name: rlzaqhaz
-  identifier: rlzaqhaz
-  projectIdentifier: qqhvsltzmcrf
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,8 +1,0 @@
-service:
-  name: kpicokia
-  identifier: kpicokia
-  projectIdentifier: pwspoelehqjx
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

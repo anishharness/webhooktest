@@ -1,8 +1,0 @@
-service:
-  name: myvrgvwv
-  identifier: myvrgvwv
-  projectIdentifier: qmiodgaypzmm
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

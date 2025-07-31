@@ -1,8 +1,0 @@
-service:
-  name: jjwibwbn
-  identifier: jjwibwbn
-  projectIdentifier: mytbmgsyxqzv
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

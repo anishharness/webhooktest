@@ -1,8 +1,0 @@
-service:
-  name: fflqfxfi
-  identifier: fflqfxfi
-  projectIdentifier: wacqifadxoel
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

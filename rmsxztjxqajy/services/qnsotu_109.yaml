@@ -1,8 +1,0 @@
-service:
-  name: zzeiibtq
-  identifier: zzeiibtq
-  projectIdentifier: rmsxztjxqajy
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

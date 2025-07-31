@@ -1,8 +1,0 @@
-service:
-  name: yvldkdmi
-  identifier: yvldkdmi
-  projectIdentifier: jayfwcjiluhl
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

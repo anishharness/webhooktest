@@ -1,8 +1,0 @@
-service:
-  name: ztankzqh
-  identifier: ztankzqh
-  projectIdentifier: dqdztwxargsg
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

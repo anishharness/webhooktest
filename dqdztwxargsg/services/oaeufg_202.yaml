@@ -1,8 +1,0 @@
-service:
-  name: pvyobkaa
-  identifier: pvyobkaa
-  projectIdentifier: dqdztwxargsg
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

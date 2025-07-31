@@ -1,8 +1,0 @@
-service:
-  name: femmddlm
-  identifier: femmddlm
-  projectIdentifier: mytbmgsyxqzv
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

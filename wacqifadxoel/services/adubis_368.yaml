@@ -1,8 +1,0 @@
-service:
-  name: tflsxdep
-  identifier: tflsxdep
-  projectIdentifier: wacqifadxoel
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

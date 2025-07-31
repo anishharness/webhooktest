@@ -1,8 +1,0 @@
-service:
-  name: ubcbyaxi
-  identifier: ubcbyaxi
-  projectIdentifier: cvfuxxjciraw
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

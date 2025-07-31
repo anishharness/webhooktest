@@ -1,8 +1,0 @@
-service:
-  name: cjvztjfn
-  identifier: cjvztjfn
-  projectIdentifier: jayfwcjiluhl
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

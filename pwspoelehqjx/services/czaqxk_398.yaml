@@ -1,8 +1,0 @@
-service:
-  name: gliwmfvn
-  identifier: gliwmfvn
-  projectIdentifier: pwspoelehqjx
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

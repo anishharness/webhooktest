@@ -1,8 +1,0 @@
-service:
-  name: myimjeqt
-  identifier: myimjeqt
-  projectIdentifier: eylsrgbqsatf
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

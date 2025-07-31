@@ -1,0 +1,8 @@
+service:
+  name: srvnnwrh
+  identifier: srvnnwrh
+  projectIdentifier: adrpyslmzmpm
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

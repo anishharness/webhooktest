@@ -1,0 +1,8 @@
+service:
+  name: hdfnailz
+  identifier: hdfnailz
+  projectIdentifier: ynskytljftiz
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

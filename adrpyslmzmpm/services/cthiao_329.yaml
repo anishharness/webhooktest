@@ -1,0 +1,8 @@
+service:
+  name: lnouzmei
+  identifier: lnouzmei
+  projectIdentifier: adrpyslmzmpm
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: xhyjosdi
+  identifier: xhyjosdi
+  projectIdentifier: keszukiewwln
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

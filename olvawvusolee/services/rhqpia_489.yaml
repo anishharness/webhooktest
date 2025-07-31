@@ -1,0 +1,8 @@
+service:
+  name: asmyhcct
+  identifier: asmyhcct
+  projectIdentifier: olvawvusolee
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

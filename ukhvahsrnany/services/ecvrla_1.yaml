@@ -1,0 +1,8 @@
+service:
+  name: mxkkhjjw
+  identifier: mxkkhjjw
+  projectIdentifier: ukhvahsrnany
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

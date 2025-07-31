@@ -1,0 +1,8 @@
+service:
+  name: jtrukukh
+  identifier: jtrukukh
+  projectIdentifier: joexfylybowp
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

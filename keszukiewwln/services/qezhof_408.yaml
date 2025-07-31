@@ -1,0 +1,8 @@
+service:
+  name: xfkgenqp
+  identifier: xfkgenqp
+  projectIdentifier: keszukiewwln
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

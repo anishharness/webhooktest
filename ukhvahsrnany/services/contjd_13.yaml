@@ -1,0 +1,8 @@
+service:
+  name: namfckpp
+  identifier: namfckpp
+  projectIdentifier: ukhvahsrnany
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

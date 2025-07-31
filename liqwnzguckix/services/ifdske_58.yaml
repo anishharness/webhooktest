@@ -1,0 +1,8 @@
+service:
+  name: phorzjie
+  identifier: phorzjie
+  projectIdentifier: liqwnzguckix
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

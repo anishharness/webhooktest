@@ -1,0 +1,8 @@
+service:
+  name: zubrvyxk
+  identifier: zubrvyxk
+  projectIdentifier: ukhvahsrnany
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

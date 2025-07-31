@@ -1,0 +1,8 @@
+service:
+  name: whsruuij
+  identifier: whsruuij
+  projectIdentifier: oxqnnfxqxdya
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

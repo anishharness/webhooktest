@@ -1,0 +1,8 @@
+service:
+  name: ngzeujek
+  identifier: ngzeujek
+  projectIdentifier: egkpeoqytjko
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

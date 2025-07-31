@@ -1,0 +1,8 @@
+service:
+  name: funanzjq
+  identifier: funanzjq
+  projectIdentifier: adrpyslmzmpm
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

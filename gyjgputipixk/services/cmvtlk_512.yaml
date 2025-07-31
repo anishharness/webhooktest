@@ -1,0 +1,8 @@
+service:
+  name: mrqtgmnv
+  identifier: mrqtgmnv
+  projectIdentifier: gyjgputipixk
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

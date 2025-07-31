@@ -1,0 +1,8 @@
+service:
+  name: tkhaurdg
+  identifier: tkhaurdg
+  projectIdentifier: bxxwygelkagf
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: dpakebkb
+  identifier: dpakebkb
+  projectIdentifier: gyjgputipixk
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

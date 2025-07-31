@@ -1,0 +1,8 @@
+service:
+  name: zkyjykov
+  identifier: zkyjykov
+  projectIdentifier: adrpyslmzmpm
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

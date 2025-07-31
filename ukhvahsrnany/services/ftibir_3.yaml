@@ -1,0 +1,8 @@
+service:
+  name: zowiyjop
+  identifier: zowiyjop
+  projectIdentifier: ukhvahsrnany
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

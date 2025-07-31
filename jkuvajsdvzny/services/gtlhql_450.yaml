@@ -1,0 +1,8 @@
+service:
+  name: lbjlwhje
+  identifier: lbjlwhje
+  projectIdentifier: jkuvajsdvzny
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: tpiwdllg
+  identifier: tpiwdllg
+  projectIdentifier: ukhvahsrnany
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: dmyrjdwy
+  identifier: dmyrjdwy
+  projectIdentifier: emukemvgwwet
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

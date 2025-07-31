@@ -1,0 +1,8 @@
+service:
+  name: axzqyrtc
+  identifier: axzqyrtc
+  projectIdentifier: olvawvusolee
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

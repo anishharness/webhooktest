@@ -1,0 +1,8 @@
+service:
+  name: wruelark
+  identifier: wruelark
+  projectIdentifier: bxxwygelkagf
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: sejhddza
+  identifier: sejhddza
+  projectIdentifier: liqwnzguckix
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

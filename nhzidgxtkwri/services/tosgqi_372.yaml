@@ -1,0 +1,8 @@
+service:
+  name: tjkywbpp
+  identifier: tjkywbpp
+  projectIdentifier: nhzidgxtkwri
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

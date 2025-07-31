@@ -1,0 +1,8 @@
+service:
+  name: utmgxydr
+  identifier: utmgxydr
+  projectIdentifier: joexfylybowp
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

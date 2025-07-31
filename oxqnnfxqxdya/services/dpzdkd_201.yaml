@@ -1,0 +1,8 @@
+service:
+  name: nguvbdnn
+  identifier: nguvbdnn
+  projectIdentifier: oxqnnfxqxdya
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

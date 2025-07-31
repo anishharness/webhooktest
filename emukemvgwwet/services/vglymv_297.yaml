@@ -1,0 +1,8 @@
+service:
+  name: groegqmd
+  identifier: groegqmd
+  projectIdentifier: emukemvgwwet
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

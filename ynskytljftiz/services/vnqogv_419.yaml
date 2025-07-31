@@ -1,0 +1,8 @@
+service:
+  name: iynubfhz
+  identifier: iynubfhz
+  projectIdentifier: ynskytljftiz
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

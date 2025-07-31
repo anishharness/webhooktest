@@ -1,0 +1,8 @@
+service:
+  name: vdrwsybc
+  identifier: vdrwsybc
+  projectIdentifier: pdmpwesuantu
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: tupwfmbl
+  identifier: tupwfmbl
+  projectIdentifier: ynskytljftiz
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

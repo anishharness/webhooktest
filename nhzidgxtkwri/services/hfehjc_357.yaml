@@ -1,0 +1,8 @@
+service:
+  name: dmotpgni
+  identifier: dmotpgni
+  projectIdentifier: nhzidgxtkwri
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

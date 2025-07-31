@@ -1,0 +1,8 @@
+service:
+  name: xbqahsei
+  identifier: xbqahsei
+  projectIdentifier: egkpeoqytjko
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

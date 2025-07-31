@@ -1,0 +1,8 @@
+service:
+  name: auspesnp
+  identifier: auspesnp
+  projectIdentifier: nhzidgxtkwri
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

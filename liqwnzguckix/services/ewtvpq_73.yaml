@@ -1,0 +1,8 @@
+service:
+  name: trniicjw
+  identifier: trniicjw
+  projectIdentifier: liqwnzguckix
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

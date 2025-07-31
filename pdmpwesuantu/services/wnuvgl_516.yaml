@@ -1,0 +1,8 @@
+service:
+  name: arebgqmh
+  identifier: arebgqmh
+  projectIdentifier: pdmpwesuantu
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

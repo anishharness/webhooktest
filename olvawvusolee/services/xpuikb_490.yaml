@@ -1,0 +1,8 @@
+service:
+  name: tzlehbum
+  identifier: tzlehbum
+  projectIdentifier: olvawvusolee
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

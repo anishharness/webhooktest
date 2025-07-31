@@ -1,0 +1,8 @@
+service:
+  name: fjnitcdk
+  identifier: fjnitcdk
+  projectIdentifier: emukemvgwwet
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

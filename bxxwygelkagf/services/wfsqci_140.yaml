@@ -1,0 +1,8 @@
+service:
+  name: qtszszla
+  identifier: qtszszla
+  projectIdentifier: bxxwygelkagf
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

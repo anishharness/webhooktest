@@ -1,0 +1,8 @@
+service:
+  name: ntnxgmwp
+  identifier: ntnxgmwp
+  projectIdentifier: joexfylybowp
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

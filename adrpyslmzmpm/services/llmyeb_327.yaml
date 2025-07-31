@@ -1,0 +1,8 @@
+service:
+  name: dzzqvgsc
+  identifier: dzzqvgsc
+  projectIdentifier: adrpyslmzmpm
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

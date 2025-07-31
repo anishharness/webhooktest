@@ -1,0 +1,8 @@
+service:
+  name: joaycpqt
+  identifier: joaycpqt
+  projectIdentifier: egkpeoqytjko
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

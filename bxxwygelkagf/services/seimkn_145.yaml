@@ -1,0 +1,8 @@
+service:
+  name: tismgzar
+  identifier: tismgzar
+  projectIdentifier: bxxwygelkagf
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

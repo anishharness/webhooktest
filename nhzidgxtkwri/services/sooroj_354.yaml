@@ -1,0 +1,8 @@
+service:
+  name: nzjxnaqy
+  identifier: nzjxnaqy
+  projectIdentifier: nhzidgxtkwri
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

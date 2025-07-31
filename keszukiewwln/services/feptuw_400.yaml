@@ -1,0 +1,8 @@
+service:
+  name: kbgacnkq
+  identifier: kbgacnkq
+  projectIdentifier: keszukiewwln
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

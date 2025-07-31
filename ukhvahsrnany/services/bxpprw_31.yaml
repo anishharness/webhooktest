@@ -1,0 +1,8 @@
+service:
+  name: upghlyqn
+  identifier: upghlyqn
+  projectIdentifier: ukhvahsrnany
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

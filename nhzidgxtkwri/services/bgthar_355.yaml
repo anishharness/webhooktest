@@ -1,0 +1,8 @@
+service:
+  name: mzvgcpke
+  identifier: mzvgcpke
+  projectIdentifier: nhzidgxtkwri
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

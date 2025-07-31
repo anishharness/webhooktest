@@ -1,0 +1,8 @@
+service:
+  name: kanebmop
+  identifier: kanebmop
+  projectIdentifier: oxqnnfxqxdya
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

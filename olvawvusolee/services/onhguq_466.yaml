@@ -1,0 +1,8 @@
+service:
+  name: urkttjyj
+  identifier: urkttjyj
+  projectIdentifier: olvawvusolee
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

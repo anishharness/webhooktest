@@ -1,0 +1,8 @@
+service:
+  name: grcelqye
+  identifier: grcelqye
+  projectIdentifier: svczafcftrmx
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

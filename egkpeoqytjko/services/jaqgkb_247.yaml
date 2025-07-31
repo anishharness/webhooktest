@@ -1,0 +1,8 @@
+service:
+  name: knnhflte
+  identifier: knnhflte
+  projectIdentifier: egkpeoqytjko
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

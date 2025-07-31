@@ -1,0 +1,8 @@
+service:
+  name: wzzkxwie
+  identifier: wzzkxwie
+  projectIdentifier: nhzidgxtkwri
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

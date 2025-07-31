@@ -1,0 +1,8 @@
+service:
+  name: stuowhpf
+  identifier: stuowhpf
+  projectIdentifier: joexfylybowp
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

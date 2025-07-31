@@ -1,0 +1,8 @@
+service:
+  name: hvqswvca
+  identifier: hvqswvca
+  projectIdentifier: oxqnnfxqxdya
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

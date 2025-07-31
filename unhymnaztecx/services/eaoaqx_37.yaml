@@ -1,0 +1,8 @@
+service:
+  name: jwpemrqg
+  identifier: jwpemrqg
+  projectIdentifier: unhymnaztecx
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

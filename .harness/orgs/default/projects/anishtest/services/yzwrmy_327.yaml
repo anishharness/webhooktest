@@ -1,0 +1,8 @@
+service:
+  name: allueqyi
+  identifier: allueqyi
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,8 +1,0 @@
-service:
-  name: adyeejpy
-  identifier: adyeejpy
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

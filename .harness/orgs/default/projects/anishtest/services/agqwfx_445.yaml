@@ -1,0 +1,8 @@
+service:
+  name: tyyfvhse
+  identifier: tyyfvhse
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

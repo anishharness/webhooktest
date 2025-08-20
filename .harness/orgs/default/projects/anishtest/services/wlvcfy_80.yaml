@@ -1,0 +1,8 @@
+service:
+  name: vhykgpmk
+  identifier: vhykgpmk
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

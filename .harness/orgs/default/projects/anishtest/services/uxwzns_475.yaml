@@ -1,0 +1,8 @@
+service:
+  name: ysnwozdc
+  identifier: ysnwozdc
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

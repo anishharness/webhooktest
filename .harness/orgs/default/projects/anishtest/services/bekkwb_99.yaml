@@ -1,0 +1,8 @@
+service:
+  name: jefmcxon
+  identifier: jefmcxon
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

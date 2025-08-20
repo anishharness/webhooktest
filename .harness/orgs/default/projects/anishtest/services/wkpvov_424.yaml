@@ -1,0 +1,8 @@
+service:
+  name: kbnwnqqa
+  identifier: kbnwnqqa
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,8 +1,0 @@
-service:
-  name: swkdoswh
-  identifier: swkdoswh
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

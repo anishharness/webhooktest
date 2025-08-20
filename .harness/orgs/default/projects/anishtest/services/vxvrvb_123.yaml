@@ -1,0 +1,8 @@
+service:
+  name: ydgwuwkk
+  identifier: ydgwuwkk
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

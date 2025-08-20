@@ -1,0 +1,8 @@
+service:
+  name: adslefiw
+  identifier: adslefiw
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

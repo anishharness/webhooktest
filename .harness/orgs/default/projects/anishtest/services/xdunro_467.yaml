@@ -1,8 +1,0 @@
-service:
-  name: zwlxzyhs
-  identifier: zwlxzyhs
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

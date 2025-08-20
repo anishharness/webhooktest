@@ -1,0 +1,8 @@
+service:
+  name: tjfwemgj
+  identifier: tjfwemgj
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

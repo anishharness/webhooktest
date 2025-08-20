@@ -1,0 +1,8 @@
+service:
+  name: wigcejdk
+  identifier: wigcejdk
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

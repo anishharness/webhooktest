@@ -1,0 +1,8 @@
+service:
+  name: menpvcah
+  identifier: menpvcah
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

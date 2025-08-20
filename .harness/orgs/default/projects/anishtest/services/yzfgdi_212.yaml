@@ -1,8 +1,0 @@
-service:
-  name: rkvmjpdn
-  identifier: rkvmjpdn
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

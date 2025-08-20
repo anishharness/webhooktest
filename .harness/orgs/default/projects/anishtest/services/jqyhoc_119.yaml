@@ -1,0 +1,8 @@
+service:
+  name: rifbqloc
+  identifier: rifbqloc
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

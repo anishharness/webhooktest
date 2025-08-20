@@ -1,0 +1,8 @@
+service:
+  name: xcfnfmtf
+  identifier: xcfnfmtf
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

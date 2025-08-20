@@ -1,0 +1,8 @@
+service:
+  name: gnhfhdgz
+  identifier: gnhfhdgz
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

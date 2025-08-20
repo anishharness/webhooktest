@@ -1,0 +1,8 @@
+service:
+  name: rhslhnmg
+  identifier: rhslhnmg
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,8 +1,0 @@
-service:
-  name: lbhtzqjt
-  identifier: lbhtzqjt
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: zbfnbuyu
+  identifier: zbfnbuyu
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

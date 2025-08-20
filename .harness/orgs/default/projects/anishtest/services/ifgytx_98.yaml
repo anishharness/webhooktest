@@ -1,8 +1,0 @@
-service:
-  name: rqunhvrg
-  identifier: rqunhvrg
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

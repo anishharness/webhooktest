@@ -1,0 +1,8 @@
+service:
+  name: uxnoubxt
+  identifier: uxnoubxt
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

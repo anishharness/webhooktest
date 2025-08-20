@@ -1,8 +1,0 @@
-service:
-  name: lqmbmecy
-  identifier: lqmbmecy
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

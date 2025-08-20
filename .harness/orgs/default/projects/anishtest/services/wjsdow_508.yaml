@@ -1,0 +1,8 @@
+service:
+  name: tgfnvvrz
+  identifier: tgfnvvrz
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

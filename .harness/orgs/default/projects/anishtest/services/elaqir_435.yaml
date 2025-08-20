@@ -1,0 +1,8 @@
+service:
+  name: wkubuhum
+  identifier: wkubuhum
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

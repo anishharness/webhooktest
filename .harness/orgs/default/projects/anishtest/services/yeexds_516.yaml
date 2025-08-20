@@ -1,0 +1,8 @@
+service:
+  name: ryoioitt
+  identifier: ryoioitt
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

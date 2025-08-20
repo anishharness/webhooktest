@@ -1,0 +1,8 @@
+service:
+  name: jgsedbwk
+  identifier: jgsedbwk
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

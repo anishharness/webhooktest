@@ -1,0 +1,8 @@
+service:
+  name: rchnuqew
+  identifier: rchnuqew
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

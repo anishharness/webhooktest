@@ -1,8 +1,0 @@
-service:
-  name: zgicenoy
-  identifier: zgicenoy
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

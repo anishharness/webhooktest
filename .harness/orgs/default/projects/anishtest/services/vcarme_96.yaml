@@ -1,0 +1,8 @@
+service:
+  name: azszjjrp
+  identifier: azszjjrp
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

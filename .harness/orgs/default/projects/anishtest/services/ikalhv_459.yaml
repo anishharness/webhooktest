@@ -1,0 +1,8 @@
+service:
+  name: nfmkpotf
+  identifier: nfmkpotf
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

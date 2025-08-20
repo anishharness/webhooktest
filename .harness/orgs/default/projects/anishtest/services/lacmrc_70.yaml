@@ -1,0 +1,8 @@
+service:
+  name: outfdvpq
+  identifier: outfdvpq
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

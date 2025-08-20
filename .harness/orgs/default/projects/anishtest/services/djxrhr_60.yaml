@@ -1,8 +1,0 @@
-service:
-  name: fatppuzd
-  identifier: fatppuzd
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

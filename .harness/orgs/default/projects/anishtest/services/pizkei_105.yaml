@@ -1,8 +1,0 @@
-service:
-  name: cgduwwsf
-  identifier: cgduwwsf
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

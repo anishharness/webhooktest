@@ -1,0 +1,8 @@
+service:
+  name: yxyvkdnr
+  identifier: yxyvkdnr
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

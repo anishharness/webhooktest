@@ -1,0 +1,8 @@
+service:
+  name: jhaqeito
+  identifier: jhaqeito
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

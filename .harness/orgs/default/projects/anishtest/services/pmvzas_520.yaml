@@ -1,0 +1,8 @@
+service:
+  name: fkxdidhi
+  identifier: fkxdidhi
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

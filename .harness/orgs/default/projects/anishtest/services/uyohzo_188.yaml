@@ -1,0 +1,8 @@
+service:
+  name: xxycudel
+  identifier: xxycudel
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: rklcqcrm
+  identifier: rklcqcrm
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,8 +1,0 @@
-service:
-  name: pgohsbvn
-  identifier: pgohsbvn
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

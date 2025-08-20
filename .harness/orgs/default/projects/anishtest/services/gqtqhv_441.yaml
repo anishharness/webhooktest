@@ -1,8 +1,0 @@
-service:
-  name: soqhamlw
-  identifier: soqhamlw
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

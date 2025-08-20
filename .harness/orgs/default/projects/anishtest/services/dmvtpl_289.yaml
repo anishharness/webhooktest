@@ -1,0 +1,8 @@
+service:
+  name: qvdtwzwz
+  identifier: qvdtwzwz
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

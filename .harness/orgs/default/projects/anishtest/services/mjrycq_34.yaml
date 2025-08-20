@@ -1,0 +1,8 @@
+service:
+  name: hixbnauk
+  identifier: hixbnauk
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

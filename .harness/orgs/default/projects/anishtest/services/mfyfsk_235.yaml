@@ -1,0 +1,8 @@
+service:
+  name: ezlwvooy
+  identifier: ezlwvooy
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

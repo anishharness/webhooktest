@@ -1,8 +1,0 @@
-service:
-  name: bgrqaqkj
-  identifier: bgrqaqkj
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

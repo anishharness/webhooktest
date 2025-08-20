@@ -1,8 +1,0 @@
-service:
-  name: scsumfvo
-  identifier: scsumfvo
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

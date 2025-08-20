@@ -1,0 +1,8 @@
+service:
+  name: qqliorco
+  identifier: qqliorco
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

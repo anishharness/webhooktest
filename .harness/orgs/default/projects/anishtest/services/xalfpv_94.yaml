@@ -1,8 +1,0 @@
-service:
-  name: smfllivk
-  identifier: smfllivk
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

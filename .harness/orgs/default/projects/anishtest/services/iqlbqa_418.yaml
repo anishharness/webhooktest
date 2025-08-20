@@ -1,0 +1,8 @@
+service:
+  name: rvgbzzae
+  identifier: rvgbzzae
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

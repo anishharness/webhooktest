@@ -1,0 +1,8 @@
+service:
+  name: jomrqzst
+  identifier: jomrqzst
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

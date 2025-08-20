@@ -1,0 +1,8 @@
+service:
+  name: imqzpqps
+  identifier: imqzpqps
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

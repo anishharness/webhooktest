@@ -1,0 +1,8 @@
+service:
+  name: rvnpmpbr
+  identifier: rvnpmpbr
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

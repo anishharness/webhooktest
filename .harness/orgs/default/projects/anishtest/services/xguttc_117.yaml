@@ -1,8 +1,0 @@
-service:
-  name: uuvldsby
-  identifier: uuvldsby
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,8 +1,0 @@
-service:
-  name: ijlkaqet
-  identifier: ijlkaqet
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

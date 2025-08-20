@@ -1,0 +1,8 @@
+service:
+  name: ckbowyxe
+  identifier: ckbowyxe
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,8 +1,0 @@
-service:
-  name: khbntxyq
-  identifier: khbntxyq
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

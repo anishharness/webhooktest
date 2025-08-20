@@ -1,0 +1,8 @@
+service:
+  name: vvjswcbg
+  identifier: vvjswcbg
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

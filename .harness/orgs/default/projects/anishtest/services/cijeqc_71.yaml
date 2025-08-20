@@ -1,0 +1,8 @@
+service:
+  name: nbsfbisy
+  identifier: nbsfbisy
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

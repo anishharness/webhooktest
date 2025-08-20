@@ -1,0 +1,8 @@
+service:
+  name: wwipnegd
+  identifier: wwipnegd
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

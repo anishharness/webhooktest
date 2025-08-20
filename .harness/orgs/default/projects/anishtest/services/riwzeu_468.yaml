@@ -1,0 +1,8 @@
+service:
+  name: abofmikg
+  identifier: abofmikg
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

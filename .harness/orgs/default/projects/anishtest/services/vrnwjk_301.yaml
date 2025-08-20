@@ -1,0 +1,8 @@
+service:
+  name: hneliecy
+  identifier: hneliecy
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

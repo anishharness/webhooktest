@@ -1,0 +1,8 @@
+service:
+  name: drfznsmb
+  identifier: drfznsmb
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

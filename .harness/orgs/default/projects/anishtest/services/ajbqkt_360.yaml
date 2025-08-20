@@ -1,0 +1,8 @@
+service:
+  name: blqzphgm
+  identifier: blqzphgm
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

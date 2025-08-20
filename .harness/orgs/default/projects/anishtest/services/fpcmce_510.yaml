@@ -1,0 +1,8 @@
+service:
+  name: apqwfagv
+  identifier: apqwfagv
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

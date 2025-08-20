@@ -1,0 +1,8 @@
+service:
+  name: pddiwmrt
+  identifier: pddiwmrt
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: dbdkbewf
+  identifier: dbdkbewf
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

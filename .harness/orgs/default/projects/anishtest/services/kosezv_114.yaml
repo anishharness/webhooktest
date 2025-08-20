@@ -1,8 +1,0 @@
-service:
-  name: ksfwxluw
-  identifier: ksfwxluw
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

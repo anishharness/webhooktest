@@ -1,0 +1,8 @@
+service:
+  name: dfxcirab
+  identifier: dfxcirab
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

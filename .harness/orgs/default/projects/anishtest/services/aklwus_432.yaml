@@ -1,0 +1,8 @@
+service:
+  name: lzfqoscu
+  identifier: lzfqoscu
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

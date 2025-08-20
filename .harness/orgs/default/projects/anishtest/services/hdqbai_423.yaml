@@ -1,8 +1,0 @@
-service:
-  name: fkrlxwic
-  identifier: fkrlxwic
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

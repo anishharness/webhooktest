@@ -1,0 +1,8 @@
+service:
+  name: gxiulbyd
+  identifier: gxiulbyd
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

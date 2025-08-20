@@ -1,0 +1,8 @@
+service:
+  name: bxliwvzr
+  identifier: bxliwvzr
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: xculgpbf
+  identifier: xculgpbf
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

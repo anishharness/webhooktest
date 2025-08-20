@@ -1,0 +1,8 @@
+service:
+  name: tpnqkuvw
+  identifier: tpnqkuvw
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

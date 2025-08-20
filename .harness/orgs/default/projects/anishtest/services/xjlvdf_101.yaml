@@ -1,8 +1,0 @@
-service:
-  name: auzsonpo
-  identifier: auzsonpo
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

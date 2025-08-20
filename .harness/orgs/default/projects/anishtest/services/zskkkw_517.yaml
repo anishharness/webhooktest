@@ -1,0 +1,8 @@
+service:
+  name: ishfapye
+  identifier: ishfapye
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: yqczfjmp
+  identifier: yqczfjmp
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

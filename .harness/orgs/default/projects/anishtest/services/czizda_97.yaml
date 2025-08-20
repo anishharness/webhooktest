@@ -1,0 +1,8 @@
+service:
+  name: oirvkmnj
+  identifier: oirvkmnj
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,8 +1,0 @@
-service:
-  name: owuwxsww
-  identifier: owuwxsww
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

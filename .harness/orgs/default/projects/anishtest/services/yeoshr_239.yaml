@@ -1,0 +1,8 @@
+service:
+  name: djqubcdu
+  identifier: djqubcdu
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

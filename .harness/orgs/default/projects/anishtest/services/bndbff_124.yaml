@@ -1,0 +1,8 @@
+service:
+  name: euyccbzi
+  identifier: euyccbzi
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

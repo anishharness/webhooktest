@@ -1,8 +1,0 @@
-service:
-  name: rpjlblbj
-  identifier: rpjlblbj
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

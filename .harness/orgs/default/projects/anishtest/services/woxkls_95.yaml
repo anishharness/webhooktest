@@ -1,0 +1,8 @@
+service:
+  name: necqqzuv
+  identifier: necqqzuv
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

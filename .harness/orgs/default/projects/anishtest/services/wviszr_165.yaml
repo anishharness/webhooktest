@@ -1,0 +1,8 @@
+service:
+  name: zwlfenak
+  identifier: zwlfenak
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

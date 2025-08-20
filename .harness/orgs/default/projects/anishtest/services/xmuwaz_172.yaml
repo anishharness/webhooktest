@@ -1,0 +1,8 @@
+service:
+  name: xozlzgci
+  identifier: xozlzgci
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

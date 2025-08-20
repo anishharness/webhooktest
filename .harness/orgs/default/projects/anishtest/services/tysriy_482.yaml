@@ -1,8 +1,0 @@
-service:
-  name: onudcgfi
-  identifier: onudcgfi
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

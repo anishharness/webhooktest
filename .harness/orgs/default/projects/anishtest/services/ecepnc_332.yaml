@@ -1,0 +1,8 @@
+service:
+  name: taaxocau
+  identifier: taaxocau
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

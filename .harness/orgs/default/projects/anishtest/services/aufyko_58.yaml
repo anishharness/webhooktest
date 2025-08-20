@@ -1,0 +1,8 @@
+service:
+  name: wdtzwyab
+  identifier: wdtzwyab
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: dfriudlw
+  identifier: dfriudlw
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: klozgidb
+  identifier: klozgidb
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

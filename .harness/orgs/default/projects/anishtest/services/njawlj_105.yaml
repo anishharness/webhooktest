@@ -1,0 +1,8 @@
+service:
+  name: bskrgauy
+  identifier: bskrgauy
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

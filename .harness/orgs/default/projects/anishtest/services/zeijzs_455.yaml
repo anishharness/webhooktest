@@ -1,0 +1,8 @@
+service:
+  name: akgyuzwb
+  identifier: akgyuzwb
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

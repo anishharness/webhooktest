@@ -1,8 +1,0 @@
-service:
-  name: ocljkwmx
-  identifier: ocljkwmx
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: schrhhkn
+  identifier: schrhhkn
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

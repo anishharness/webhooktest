@@ -1,0 +1,8 @@
+service:
+  name: nuxzmssw
+  identifier: nuxzmssw
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,8 +1,0 @@
-service:
-  name: iijwulpe
-  identifier: iijwulpe
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

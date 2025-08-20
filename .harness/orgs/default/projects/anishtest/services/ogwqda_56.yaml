@@ -1,0 +1,8 @@
+service:
+  name: qpkyfahm
+  identifier: qpkyfahm
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,8 +1,0 @@
-service:
-  name: wsuduujx
-  identifier: wsuduujx
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

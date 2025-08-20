@@ -1,8 +1,0 @@
-service:
-  name: csqyejue
-  identifier: csqyejue
-  projectIdentifier: anishtest
-  orgIdentifier: default
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

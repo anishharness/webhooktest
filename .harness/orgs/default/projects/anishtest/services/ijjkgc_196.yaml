@@ -1,0 +1,8 @@
+service:
+  name: zrqdpimx
+  identifier: zrqdpimx
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: gowmtmvv
+  identifier: gowmtmvv
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

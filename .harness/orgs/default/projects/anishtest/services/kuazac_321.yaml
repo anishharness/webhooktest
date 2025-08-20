@@ -1,0 +1,8 @@
+service:
+  name: egcrmhci
+  identifier: egcrmhci
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

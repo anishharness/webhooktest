@@ -1,0 +1,8 @@
+service:
+  name: offhgnbm
+  identifier: offhgnbm
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

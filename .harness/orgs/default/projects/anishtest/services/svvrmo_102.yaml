@@ -1,0 +1,8 @@
+service:
+  name: awwidqzj
+  identifier: awwidqzj
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

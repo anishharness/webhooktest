@@ -1,0 +1,8 @@
+service:
+  name: sbsneawj
+  identifier: sbsneawj
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

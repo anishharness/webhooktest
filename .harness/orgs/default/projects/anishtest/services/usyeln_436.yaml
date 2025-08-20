@@ -1,0 +1,8 @@
+service:
+  name: ikhhmoxp
+  identifier: ikhhmoxp
+  projectIdentifier: anishtest
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
